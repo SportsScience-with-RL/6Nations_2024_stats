@@ -42,6 +42,13 @@ def eda_navigation(data_6nations, teams_img, games_scores, games_results, tbl_de
     st.write('')
 
     st.header('Distributions')
+    st.write("""**- Durée :** durée des séquences en secondes.
+             **- Phases :** nombre de phases (rucks) de la séquence.
+             **- Ratio Rucks-Passe :** plus le ratio est élevé plus il y a de passes effectuées entre les rucks de la séquence.
+             **- Avancée + :** somme des rucks et offloads après avoir cassé la ligne d'avantage de la séquence.
+             **- Ratio Avancée :** un ratio élevé représente une plus grande capacité à jouer en dépassant la ligne d'avantage entre les rucks de la séquence.
+             **- Progression Zones :** nombre de zones parcourues durant la séquence par rapport à la zone de début et zone de fin.
+             """)
     st.subheader('Boxplots (sans valeur aberrante)')
     c_box = [column for row in [st.columns(3) for _ in range(3)] for column in row]
     for i, m in enumerate(['Durée', 'Phases', 'Ratio Rucks-Passes', 'Avancée +', 'Ratio Avancée', 'Progression Zones']):

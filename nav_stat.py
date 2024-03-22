@@ -91,7 +91,7 @@ def stat_navigation(data_6nations, teams_img, games_scores, games_results, tbl_t
 
     elif stat_menu == "Comparaison d'une équipe":
         with st.expander('Démarche'):
-            st.subheader('**:blue[Comparaison des matchs ainsi que des périodes de 20min de chaque équipe]**')
+            st.subheader("**:blue[Comparaison d'une même équipe sur le compétition sur tous les matchs et toutes les périodes de 20min]**")
             st.write("""Un test de Shapiro-Wilk est réalisé pour chaque période de l'équipe afin de tester l'hypothèse nulle selon laquelle les valeurs de la variable de chaque match/période sont normalement ditribuées.
              Un test de Levene est également réalisé afin de tester l'hypothèse nulle d'homogénéité des variances entre les matchs/périodes pour la variable choisie.""")
             st.write("""Pour une valeur p du test de Shapiro-Wilk inférieure au seuil de 95%, nous rejetons l'hypothèse nulle : la variable ne semble pas suivre une loi normale (distribution normale) pour le/la match/période.
