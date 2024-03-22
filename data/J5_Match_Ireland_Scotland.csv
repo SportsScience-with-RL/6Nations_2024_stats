@@ -1,0 +1,82 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Ireland - Scotland,0'-20',0,0,Ireland,Coup de pied,1711053267.3737326,1711053288.9218647,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Scotland,Coup de pied,1711053305.6203249,1711053316.9142616,40m3,8,10m2,7,Faute -,Ruck,2,1,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Ireland,Touche,1711053322.2178888,1711053360.874268,22m3,10,40m4,9,Faute -,Passe,4,2,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Ireland,Coup de pied,1711053365.5199814,1711053404.6437185,40m2,5,10m2,7,Perte,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Scotland,Coup de pied,1711053415.8226151,1711053438.9943042,10m1,6,40m3,8,Faute -,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Ireland,Coup de pied,1711053450.1045249,1711053472.016285,40m2,5,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Scotland,Coup de pied,1711053479.2414281,1711053505.8961039,10m1,6,40m4,9,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Ireland,Coup de pied,1711053513.8097825,1711053541.3265529,40m1,4,22m2,3,Perte,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Ireland,Touche,1711053545.5953045,1711053573.983402,22m1,2,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Scotland,Jeux rapide,1711053577.3370235,1711053584.3790338,22m4,11,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,0,Ireland,Turnover,1711053591.2642457,1711053607.1739247,22m1,2,40m4,9,Perte,Dégagement,2,0,1,0,0,0,0,0,0,1
+Ireland - Scotland,0'-20',0,0,Scotland,Coup de pied,1711053613.768499,1711053635.3238685,40m1,4,22m3,10,Perte,Dégagement,2,1,1,0,0,0,0,0,0,1
+Ireland - Scotland,0'-20',0,0,Scotland,Touche,1711053637.8423483,1711053681.1158254,10m1,6,40m3,8,Perte,Jeu au pied,1,2,0,0,0,1,1,0,1,0
+Ireland - Scotland,0'-20',0,0,Ireland,Coup de pied,1711053688.6535835,1711053693.5032444,40m2,5,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,3,Ireland,Coup de pied,1711053721.3777516,1711053750.3490698,40m3,8,22m2,3,Touche,Jeu au pied,5,3,0,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',0,3,Scotland,Touche,1711053764.849389,1711053773.6713881,22m2,3,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,3,Ireland,Coup de pied,1711053784.7082667,1711053813.0250235,10m1,6,22m4,11,Touche,Jeu au pied,8,2,2,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',0,3,Scotland,Touche,1711053823.3920033,1711053838.7361057,22m1,2,,0,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+Ireland - Scotland,0'-20',0,3,Ireland,Coup de pied,1711053850.4023373,1711053886.7525032,10m2,7,40m4,9,Faute +,Passe,6,1,3,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,3,Ireland,Touche,1711053890.5566416,1711053914.461858,22m4,11,22m4,11,Touche,Passe,2,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,3,Scotland,Touche,1711053925.6213102,1711053929.0847332,22m1,2,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',0,3,Ireland,Touche +,1711053943.7885804,1711053947.172762,22m4,11,En-but,13,Essai,,0,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',7,3,Ireland,Coup de pied,1711053972.8364992,1711054011.6378226,22m2,3,40m1,4,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+Ireland - Scotland,0'-20',7,3,Scotland,Touche,1711054017.3303132,1711054102.1523304,40m4,9,40m4,9,Faute +,Ruck,23,7,4,0,0,0,0,0,0,0
+Ireland - Scotland,0'-20',7,6,Scotland,Coup de pied,1711054121.6420565,1711054156.8564024,22m2,3,10m1,6,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Scotland,0'-20',7,6,Ireland,Coup de pied,1711054163.2780728,1711054225.5190434,10m2,7,En-but2,12,Touche,Jeu au pied,16,5,4,1,0,1,0,0,0,0
+Ireland - Scotland,0'-20',7,6,Ireland,Coup de pied,1711054232.042295,1711054282.5491924,10m1,6,10m1,6,Perte,Ruck,6,2,1,0,0,0,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Scotland,Turnover,1711054321.641026,1711054331.2312958,10m2,7,,0,Perte,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Scotland,Coup de pied,1711054353.0557358,1711054454.3021157,10m1,6,40m3,8,Faute -,Ruck,8,5,2,0,0,0,0,0,1,0
+Ireland - Scotland,20'-40',7,6,Ireland,Touche,1711054460.4632816,1711054515.366345,40m4,9,En-but2,12,Touche,Jeu au pied,11,2,2,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Coup de pied,1711054520.0706573,1711054550.9378285,40m2,5,22m3,10,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Coup de pied,1711054557.799657,1711054595.0692322,40m2,5,40m3,8,Faute -,Ruck +,7,1,3,0,0,0,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Scotland,Mêlée,1711054656.4748466,1711054717.0027394,40m2,5,22m3,10,Touche,Jeu au pied,13,4,2,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Touche,1711054724.6814508,1711054747.579734,22m2,3,40m2,5,Perte,Jeu au pied,2,1,0,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Scotland,Coup de pied,1711054755.8277159,1711054779.6076906,40m3,8,10m2,7,Faute -,Passe,9,2,0,0,0,0,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Touche,1711054785.1988614,1711054834.0439975,40m4,9,22m3,10,Faute -,Ruck +,4,1,2,0,0,0,2,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Coup de pied,1711054870.329956,1711054887.0332885,10m1,6,40m4,9,Perte,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Coup de pied,1711054890.6758904,1711054920.8250663,22m2,3,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Scotland,Coup de pied,1711054927.6397142,1711054937.452304,10m1,6,10m1,6,Faute -,Passe,1,1,0,0,0,0,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Scotland,Coup de pied,1711054959.0165613,1711055002.2614093,40m2,5,10m2,7,Perte,Jeu au pied,3,2,0,1,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Coup de pied,1711055008.8373253,1711055014.671272,10m1,6,10m1,6,Faute -,Ruck +,0,0,1,0,0,0,0,0,1,0
+Ireland - Scotland,20'-40',7,6,Scotland,Mêlée,1711055041.5475926,1711055088.4681435,10m2,7,10m2,7,Faute -,Ruck,3,2,0,0,0,0,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Mêlée,1711055096.548461,1711055185.8919656,10m1,6,40m4,9,Perte,Offload,17,6,2,2,0,0,0,1,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Coup de pied,1711055191.789833,1711055225.4847937,22m2,3,22m2,3,Faute +,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Ireland - Scotland,20'-40',7,6,Ireland,Touche,1711055247.929656,1711055312.80524,10m2,7,40m3,8,Touche,Passe,15,3,3,1,0,0,0,0,0,0
+Ireland - Scotland,40'-60',7,6,Scotland,Coup de pied,1711055328.7997363,1711055354.9496632,40m1,4,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Ireland - Scotland,40'-60',7,6,Ireland,Coup de pied,1711055361.3988004,1711055448.6091943,10m2,7,22m3,10,Faute +,Ruck,17,8,4,1,1,0,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Ireland,Touche,1711055464.0594342,1711055558.448571,22m3,10,22m4,11,Faute +,Passe,15,5,5,0,0,0,0,0,1,0
+Ireland - Scotland,40'-60',10,6,Ireland,Jeux rapide,1711055571.01322,1711055601.3104384,22m4,11,En-but2,12,Faute -,Passe,2,1,1,0,0,0,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Ireland,Coup de pied,1711055667.0721807,1711055689.2769752,10m2,7,10m2,7,Faute -,Passe,2,0,1,0,0,0,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Scotland,Mêlée,1711055698.9355478,1711055753.6474688,10m1,6,22m3,10,Perte,Offload +,4,1,1,1,1,0,0,0,1,0
+Ireland - Scotland,40'-60',10,6,Ireland,Turnover,1711055760.4927876,1711055796.7366807,22m2,3,10m1,6,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+Ireland - Scotland,40'-60',10,6,Scotland,Coup de pied,1711055802.594711,1711055842.3461394,10m2,7,10m2,7,Faute -,Passe,9,3,1,0,0,0,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Ireland,Mêlée,1711055847.1875978,1711055876.4645414,10m1,6,22m3,10,Perte,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Scotland,Coup de pied,1711055884.7674913,1711055898.5674493,22m2,3,,0,Supprimer,Ruck,0,2,0,0,0,0,0,0,1,0
+Ireland - Scotland,40'-60',10,6,Ireland,Touche,1711055925.1363182,1711055965.0155957,22m3,10,22m4,11,Faute -,Passe,7,0,2,1,0,0,0,0,1,0
+Ireland - Scotland,40'-60',10,6,Ireland,Touche,1711056002.8506699,1711056017.6357152,40m3,8,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Scotland,Touche +,1711056024.733485,1711056031.6658742,40m2,5,40m4,9,Perte,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Scotland,,1711056035.8901446,1711056040.7858133,40m2,5,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Scotland,Coup de pied,1711056042.1762598,1711056064.4908183,40m2,5,10m2,7,Faute -,Passe,1,0,1,0,0,1,0,0,0,0
+Ireland - Scotland,40'-60',10,6,Ireland,Touche,1711056070.4157653,1711056132.1549003,22m4,11,22m4,11,Faute +,Passe,8,4,0,0,0,0,1,0,0,0
+Ireland - Scotland,40'-60',10,6,Ireland,Touche,1711056136.4420443,1711056221.484634,22m4,11,22m4,11,Faute -,Passe,3,6,1,0,0,0,1,0,6,0
+Ireland - Scotland,60'-80',10,6,Scotland,Touche,1711056273.7046597,1711056296.2019851,40m2,5,,0,Supprimer,Jeu au pied,0,0,0,0,0,1,1,0,0,0
+Ireland - Scotland,60'-80',10,6,Scotland,Turnover,1711056299.4428089,1711056319.4195008,40m4,9,40m4,9,Perte,Ruck,2,1,1,0,0,0,0,0,0,0
+Ireland - Scotland,60'-80',10,6,Ireland,Turnover,1711056329.9786222,1711056445.8782027,40m1,4,22m4,11,Faute +,Passe,15,9,3,0,1,0,0,0,4,0
+Ireland - Scotland,60'-80',10,6,Ireland,Jeux rapide,1711056490.34834,1711056509.098703,22m4,11,En-but,13,Essai,Passe,1,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Scotland,Touche,1711056535.6710606,1711056551.0583448,40m3,8,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Ireland,Touche +,1711056556.4818492,1711056565.9678252,40m2,5,10m2,7,Perte,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Scotland,Coup de pied,1711056573.1258707,1711056597.8348758,10m1,6,10m2,7,Faute -,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Ireland,Touche,1711056635.540818,1711056652.7078683,40m3,8,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Ireland,Touche,1711056657.2988915,1711056697.146567,22m4,11,,0,Supprimer,Ruck +,0,0,1,0,0,0,1,0,0,0
+Ireland - Scotland,60'-80',17,6,Scotland,Mêlée,1711056701.7368991,1711056741.8808234,22m1,2,40m2,5,Touche,Dégagement,2,1,0,0,0,0,0,0,0,1
+Ireland - Scotland,60'-80',17,6,Ireland,Touche,1711056761.35023,1711056771.5988734,40m3,8,40m3,8,Faute -,Passe,2,0,0,0,0,0,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Scotland,Coup de pied,1711056794.5589306,1711056818.1702006,22m2,3,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Ireland,Coup de pied,1711056824.7011416,1711056831.5578182,10m1,6,,0,Supprimer,Passe,1,1,0,0,0,0,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Scotland,Coup de pied,1711056842.8378313,1711056872.8303957,22m2,3,40m3,8,Perte,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Ireland,Coup de pied,1711056880.7078881,1711056895.405617,40m2,5,En-but2,12,Perte,Jeu au pied,2,0,1,0,0,1,0,0,0,0
+Ireland - Scotland,60'-80',17,6,Scotland,Coup de pied,1711056909.8904624,1711056939.5173442,En-but1,1,40m1,4,Faute +,Passe,3,0,2,0,1,0,0,0,1,0
+Ireland - Scotland,60'-80',17,6,Scotland,Touche,1711056965.7812834,1711057043.545784,10m1,6,En-but,13,Essai,Passe,14,6,3,0,1,0,0,0,1,0
+Ireland - Scotland,60'-80',17,13,Scotland,Coup de pied,1711057064.7032669,1711057109.3187902,22m2,3,40m2,5,Faute -,Passe,5,1,3,0,0,0,0,0,1,0
+Ireland - Scotland,60'-80',17,13,Ireland,Mêlée,1711057120.6203985,1711057184.4037642,40m3,8,40m3,8,Touche,Jeu au pied,5,3,1,0,0,1,0,0,0,0

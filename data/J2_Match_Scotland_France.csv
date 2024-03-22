@@ -1,0 +1,75 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Scotland - France,0'-20',0,0,France,Coup de pied,1707664168.0025933,1707664174.0132272,22m2,3,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Scotland - France,0'-20',0,0,Scotland,Coup de pied,1707664192.597031,1707664219.8006177,10m2,7,22m3,10,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Scotland - France,0'-20',0,0,Scotland,Coup de pied,1707664224.7680802,1707664235.803576,40m1,4,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Scotland - France,0'-20',0,0,Scotland,Touche,1707664241.3019161,1707664268.2280147,40m2,5,22m3,10,Perte,Dégagement,2,0,0,0,0,0,0,0,0,1
+Scotland - France,0'-20',0,0,Scotland,Touche,1707664271.2290285,1707664292.3808975,40m2,5,40m2,5,Faute -,Maul,0,0,0,0,0,0,1,0,0,0
+Scotland - France,0'-20',0,0,France,Turnover,1707664317.9100595,1707664348.3010674,40m3,8,40m3,8,Faute -,Ruck +,6,2,2,0,0,0,0,0,0,0
+Scotland - France,0'-20',0,0,Scotland,Touche,1707664362.5061417,1707664383.7136416,40m4,9,22m3,10,Faute -,Passe,3,0,0,0,0,0,0,0,0,0
+Scotland - France,0'-20',0,0,Scotland,Touche,1707664389.8369772,1707664449.5088747,40m2,5,10m2,7,Perte,Jeu au pied,0,0,0,0,0,1,1,0,0,0
+Scotland - France,0'-20',0,0,France,Coup de pied,1707664455.791757,1707664475.2603054,10m1,6,,0,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Scotland - France,0'-20',0,0,Scotland,Coup de pied,1707664482.754799,1707664479.2362778,40m1,4,En-but,11,Essai,Passe,8,1,3,0,1,1,0,0,0,0
+Scotland - France,0'-20',7,0,France,Coup de pied,1707664576.7945168,1707664654.5493352,10m1,6,22m3,10,Faute +,Ruck +,15,2,7,0,0,0,0,0,0,0
+Scotland - France,0'-20',7,3,Scotland,Touche,1707664709.0967977,1707664749.8194494,10m2,7,40m3,8,Perte,Ruck,9,3,2,0,1,0,0,0,0,0
+Scotland - France,0'-20',7,3,France,Turnover,1707664758.7865772,1707664768.7072845,40m2,5,40m2,5,Perte,Jeu au pied,1,0,0,1,0,1,0,0,0,0
+Scotland - France,0'-20',7,3,Scotland,Coup de pied,1707664800.8876073,1707664815.4741914,40m2,5,10m1,6,Touche,Passe,3,0,1,0,0,0,0,0,0,0
+Scotland - France,0'-20',7,3,France,Touche,1707664824.5626202,1707664845.5253553,10m2,7,22m4,11,Perte,Passe,4,0,1,0,0,0,0,0,0,0
+Scotland - France,0'-20',7,3,Scotland,Turnover,1707664856.3499868,1707664865.9591458,22m1,2,40m3,8,Touche,Jeu au pied,0,0,0,0,0,1,0,0,0,0
+Scotland - France,0'-20',7,3,Scotland,Touche +,1707664889.158477,1707664927.2232916,10m2,7,40m3,8,Perte,Jeu au pied,5,3,0,0,0,1,0,0,0,0
+Scotland - France,0'-20',7,3,France,Coup de pied,1707664932.705099,1707664936.6342585,40m2,5,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Scotland - France,0'-20',7,3,Scotland,Touche,1707664958.6511328,1707664965.0771184,10m1,6,40m4,9,Perte,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+Scotland - France,0'-20',7,3,Scotland,Touche,1707664977.8703494,1707665015.2299025,40m3,8,40m4,9,Faute +,Ruck,5,2,3,0,0,0,0,0,0,0
+Scotland - France,0'-20',7,3,Scotland,Touche,1707665017.6917024,1707665098.85127,22m4,11,22m4,11,Faute +,Offload,3,5,4,1,0,0,1,0,6,0
+Scotland - France,20'-40',10,3,France,Coup de pied,1707665138.2192352,1707665149.4114916,10m1,6,40m4,9,Faute +,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Scotland - France,20'-40',10,3,France,Mêlée,1707665158.4019892,1707665259.0861588,40m4,9,22m3,10,Faute -,Ruck +,15,5,6,0,0,0,0,0,1,0
+Scotland - France,20'-40',10,3,Scotland,Touche +,1707665291.369078,1707665306.2968652,10m2,7,22m4,11,Touche,Dégagement,1,0,1,0,0,0,0,0,0,1
+Scotland - France,20'-40',10,3,France,Touche,1707665324.099798,1707665357.3851151,22m1,2,40m1,4,Touche,Dégagement,0,1,0,0,0,0,0,0,0,1
+Scotland - France,20'-40',10,3,Scotland,Touche,1707665378.9715402,1707665386.226623,40m4,9,40m4,9,Faute +,Passe,3,0,0,0,0,0,1,0,0,0
+Scotland - France,20'-40',13,3,France,Turnover,1707665429.140914,1707665484.4966836,40m4,9,En-but,11,Essai,Passe,14,3,5,0,0,0,0,0,0,0
+Scotland - France,20'-40',13,10,Scotland,Coup de pied,1707665525.7285044,1707665557.928794,10m2,7,40m4,9,Faute +,Passe,3,2,1,0,1,1,0,0,0,0
+Scotland - France,20'-40',13,10,Scotland,Mêlée,1707665567.7275462,1707665613.8860416,40m4,9,22m3,10,Perte,Jeu au pied,7,2,0,0,0,1,0,0,0,0
+Scotland - France,20'-40',13,10,Scotland,Touche,1707665618.329428,1707665691.4247,40m4,9,22m4,11,Faute +,Départ ruck,7,3,6,0,0,0,0,0,4,0
+Scotland - France,20'-40',13,10,Scotland,Jeux rapide,1707665694.6040876,1707665790.1500454,22m4,11,22m4,11,Faute +,Passe,7,2,3,1,0,0,0,0,1,0
+Scotland - France,20'-40',13,10,Scotland,Mêlée,1707665793.1650658,1707665847.1011283,22m4,11,22m4,11,Faute +,Ruck,2,1,0,0,0,0,0,0,0,0
+Scotland - France,40'-60',13,10,Scotland,Coup de pied,1707665885.4037626,1707665995.9150956,22m2,3,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Scotland - France,40'-60',13,10,France,Coup de pied,1707666013.2644188,1707666049.555646,10m1,6,10m2,7,Perte,Ruck +,5,1,3,0,0,1,0,0,0,0
+Scotland - France,40'-60',13,10,Scotland,Turnover,1707666065.0627668,1707666076.513834,10m1,6,22m3,10,Perte,Dégagement,2,1,0,0,0,0,0,0,0,1
+Scotland - France,40'-60',13,10,Scotland,Touche,1707666082.914982,1707666147.5856645,10m1,6,,0,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+Scotland - France,40'-60',13,10,France,Coup de pied,1707666161.7752755,1707666163.5913482,40m2,5,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Scotland - France,40'-60',13,10,Scotland,Touche +,1707666186.212081,1707666233.4463964,10m2,7,40m3,8,Faute -,Passe,6,4,2,0,0,1,0,0,0,0
+Scotland - France,40'-60',13,10,France,Mêlée,1707666251.7041998,1707666291.165129,40m1,4,40m3,8,Perte,Jeu au pied,1,1,1,0,0,1,0,0,1,0
+Scotland - France,40'-60',13,10,Scotland,Coup de pied,1707666295.8902974,1707666322.1060941,40m2,5,22m3,10,Perte,Jeu au pied,4,0,2,0,0,1,0,0,0,0
+Scotland - France,40'-60',13,10,France,Touche +,1707666348.5262609,1707666391.5594754,10m2,7,22m3,10,Perte,Dégagement,5,2,1,0,0,1,0,0,0,1
+Scotland - France,40'-60',13,10,Scotland,Mêlée,1707666431.6629171,1707666446.7755296,22m3,10,,0,Supprimer,Ruck +,1,0,1,0,0,0,0,0,0,0
+Scotland - France,40'-60',13,10,Scotland,Mêlée,1707666454.9393055,1707666479.6442523,22m3,10,En-but2,12,Perte,Jeu au pied,1,0,1,0,1,1,0,0,0,0
+Scotland - France,40'-60',13,10,Scotland,Coup de pied,1707666482.4715726,1707666533.7905767,10m1,6,22m3,10,Faute -,Ruck +,3,0,2,0,1,0,0,0,0,0
+Scotland - France,40'-60',13,10,France,Touche,1707666565.6317592,1707666622.3380656,10m1,6,22m4,11,Perte,Jeu au pied,10,3,5,0,0,1,1,0,1,0
+Scotland - France,40'-60',13,10,Scotland,Touche,1707666629.7261598,1707666653.6713197,40m1,4,40m1,4,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Scotland - France,40'-60',13,10,France,Touche,1707666670.6360412,1707666687.5629556,40m4,9,40m4,9,Faute -,Passe,1,0,0,0,0,0,0,0,0,0
+Scotland - France,40'-60',13,10,France,Coup de pied,1707666724.979869,1707666731.9944758,22m2,3,40m2,5,Faute -,Passe,2,0,0,0,0,0,0,0,0,0
+Scotland - France,40'-60',13,10,Scotland,Mêlée,1707666806.4902902,1707666867.105619,40m3,8,22m3,10,Faute +,Ruck,12,8,2,0,0,0,0,0,1,0
+Scotland - France,40'-60',16,10,Scotland,Coup de pied,1707666882.6060295,1707666927.4969125,40m1,4,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Scotland - France,40'-60',16,10,France,Coup de pied,1707666933.9702532,1707666970.0542934,10m1,6,40m4,9,Perte,Jeu au pied,5,2,3,0,0,1,0,0,0,0
+Scotland - France,40'-60',16,10,Scotland,Coup de pied,1707666975.8415205,1707667008.4515858,40m1,4,10m2,7,Perte,Jeu au pied,0,1,2,0,0,1,0,0,1,0
+Scotland - France,60'-80',16,10,France,Coup de pied,1707667025.2556677,1707667045.0844123,10m1,6,40m4,9,Perte,Jeu au pied,3,1,1,0,0,1,0,0,0,0
+Scotland - France,60'-80',16,10,Scotland,Coup de pied,1707667052.28522,1707667078.7288833,40m1,4,10m2,7,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Scotland - France,60'-80',16,10,France,Coup de pied,1707667083.9916613,1707667128.9063065,10m1,6,40m4,9,Perte,Jeu au pied,6,3,1,0,0,1,0,0,0,0
+Scotland - France,60'-80',16,10,Scotland,Coup de pied,1707667156.9532366,1707667175.2446258,10m1,6,40m3,8,Perte,Jeu au pied,0,0,1,1,0,1,0,0,0,0
+Scotland - France,60'-80',16,10,France,Coup de pied,1707667184.145,1707667189.9093175,40m2,5,40m4,9,Perte,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+Scotland - France,60'-80',16,10,Scotland,Coup de pied,1707667195.776997,1707667197.0749068,40m1,4,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,10,France,Jeux rapide,1707667217.8301156,1707667250.8198035,22m2,3,40m3,8,Perte,Jeu au pied,2,1,2,0,0,1,0,0,1,0
+Scotland - France,60'-80',16,10,Scotland,Coup de pied,1707667255.8847287,1707667282.2529836,40m2,5,40m2,5,Faute +,Dégagement,3,1,1,0,0,0,0,0,1,1
+Scotland - France,60'-80',16,10,Scotland,Touche,1707667299.9015093,1707667315.0861602,10m2,7,40m4,9,Perte,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+Scotland - France,60'-80',16,10,France,Coup de pied,1707667322.9667306,1707667327.0156035,40m1,4,,0,Supprimer,Offload,0,0,0,1,0,0,0,0,0,0
+Scotland - France,60'-80',16,10,France,Coup de pied,1707667328.612744,1707667362.464656,40m1,4,,0,Supprimer,Passe,2,0,0,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,10,France,Coup de pied,1707667368.0131016,1707667402.419495,40m1,4,10m2,7,Faute +,Passe,2,0,0,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,10,France,Mêlée,1707667433.8580964,1707667454.5327742,10m2,7,En-but,11,Essai,Jeu au pied,1,0,1,0,0,1,0,0,1,0
+Scotland - France,60'-80',16,17,France,Coup de pied,1707667467.770362,1707667508.722501,40m1,4,40m1,4,Supprimer,Ruck,1,2,0,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,17,France,Coup de pied,1707667518.316772,1707667553.515023,40m1,4,10m1,6,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+Scotland - France,60'-80',16,17,Scotland,Touche,1707667569.426255,1707667571.109357,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,17,France,Touche +,1707667583.4497547,1707667599.576148,10m1,6,22m4,11,Perte,Dégagement,1,1,0,0,0,0,0,0,0,1
+Scotland - France,60'-80',16,17,Scotland,Touche +,1707667628.042665,1707667633.7098715,10m2,7,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,17,France,Touche,1707667646.654472,1707667685.7912998,40m4,9,22m3,10,Faute +,Jeu au pied,3,0,1,0,0,1,1,0,0,0
+Scotland - France,60'-80',16,20,Scotland,Coup de pied,1707667718.3736486,1707667794.5439732,40m3,8,22m4,11,Faute -,Ruck +,18,7,3,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,20,France,Mêlée,1707667806.5492508,1707667834.4854293,22m1,2,22m1,2,Perte,Ruck +,1,0,1,0,0,0,0,0,0,0
+Scotland - France,60'-80',16,20,Scotland,Turnover,1707667843.6413453,1707667905.6010115,22m4,11,En-but2,12,Faute -,Passe,3,5,5,0,0,0,0,0,7,0

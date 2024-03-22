@@ -1,0 +1,75 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Ireland - Italia,0'-20',0,0,Ireland,Coup de pied,1707854821.5639296,1707855025.5565112,22m2,3,10m2,7,Perte,Dégagement,4,1,1,0,0,0,0,0,0,1
+Ireland - Italia,0'-20',0,0,Italia,Coup de pied,1707855035.2071779,1707855058.5898485,10m1,6,40m4,9,Perte,Jeu au pied,6,1,1,1,0,1,0,0,0,0
+Ireland - Italia,0'-20',0,0,Ireland,Coup de pied,1707855062.567077,1707855089.8986497,40m1,4,10m2,7,Perte,Jeu au pied,2,2,1,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',0,0,Italia,Coup de pied,1707855095.3873637,1707855116.926063,10m1,6,40m4,9,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',0,0,Ireland,Coup de pied,1707855121.6153085,1707855143.3534646,40m1,4,40m1,4,Touche,Jeu au pied,3,1,1,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',0,0,Italia,Touche,1707855162.967132,1707855212.3864598,40m4,9,10m2,7,Faute +,Ruck,11,5,1,0,0,0,0,0,0,0
+Ireland - Italia,0'-20',0,0,Italia,Coup de pied,1707855217.6300032,1707855255.45225,10m2,7,22m3,10,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',0,0,Ireland,Jeux rapide,1707855262.5778646,1707855355.7849417,22m2,3,En-but,11,Essai,Passe,22,7,5,0,2,0,0,0,0,0
+Ireland - Italia,0'-20',5,0,Ireland,Coup de pied,1707855372.2958088,1707855409.36215,40m1,4,10m1,6,Perte,Dégagement,3,2,0,0,0,0,0,0,0,1
+Ireland - Italia,0'-20',5,0,Italia,Coup de pied,1707855414.4843495,1707855426.9747486,10m2,7,10m2,7,Faute -,Ruck,2,1,1,0,0,0,0,0,0,0
+Ireland - Italia,0'-20',5,0,Ireland,Touche,1707855435.3189044,1707855471.8022044,40m4,9,22m3,10,Faute +,Ruck,2,2,1,0,0,0,1,0,1,0
+Ireland - Italia,0'-20',5,0,Ireland,Touche,1707855483.554039,1707855509.3455486,22m4,11,22m4,11,Faute -,Passe,1,0,0,0,0,0,1,0,0,0
+Ireland - Italia,0'-20',5,0,Italia,Turnover,1707855517.7805629,1707855522.5988102,22m1,2,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Ireland - Italia,0'-20',5,0,Ireland,Coup de pied,1707855547.2588687,1707855572.1251047,40m2,5,10m1,6,Perte,Ruck,3,2,1,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',5,0,Italia,Turnover,1707855584.5433419,1707855650.7545786,10m2,7,40m3,8,Perte,Ruck +,14,6,2,0,0,0,0,0,1,0
+Ireland - Italia,0'-20',5,0,Ireland,Turnover,1707855657.0096292,1707855672.8473458,40m2,5,10m2,7,Perte,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',5,0,Italia,Coup de pied,1707855678.8685482,1707855703.6551003,10m1,6,40m4,9,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',5,0,Ireland,Coup de pied,1707855707.7010992,1707855724.9715633,40m1,4,40m4,9,Perte,Dégagement,2,0,1,0,0,0,0,0,0,1
+Ireland - Italia,0'-20',5,0,Italia,Coup de pied,1707855733.457694,1707855740.8936021,40m1,4,,0,Supprimer,Jeu au pied,0,0,0,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',5,0,Ireland,Coup de pied,1707855749.138929,1707855769.6736345,40m2,5,40m3,8,Perte,Dégagement,1,2,0,0,0,0,0,0,0,1
+Ireland - Italia,0'-20',5,0,Italia,Coup de pied,1707855778.9834027,1707855798.895707,40m2,5,10m2,7,Faute +,Ruck +,2,0,1,0,1,0,0,0,0,0
+Ireland - Italia,0'-20',5,0,Italia,Touche,1707855809.123539,1707855872.489956,22m3,10,22m4,11,Perte,Jeu au pied,10,7,0,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',5,0,Italia,Coup de pied,1707855877.697443,1707855891.0339427,10m2,7,10m2,7,Touche,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+Ireland - Italia,0'-20',5,0,Ireland,Touche,1707855904.4857981,1707855917.684954,10m1,6,40m3,8,Perte,Jeu au pied,0,0,1,0,0,1,0,0,1,0
+Ireland - Italia,0'-20',5,0,Italia,Coup de pied,1707855922.1454978,1707855980.0072832,40m2,5,40m2,5,Perte,Jeu au pied,2,4,0,0,0,2,0,0,0,0
+Ireland - Italia,20'-40',5,0,Ireland,Coup de pied,1707855985.65073,1707856019.9052246,40m3,8,10m2,7,Faute +,Jeu au pied,7,4,0,0,0,1,0,0,0,0
+Ireland - Italia,20'-40',5,0,Ireland,Mêlée,1707856022.1498513,1707856093.6111662,40m3,8,En-but,11,Essai,Passe,12,0,3,1,1,0,0,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Coup de pied,1707856124.0627546,1707856173.410006,22m2,3,10m1,6,Perte,Dégagement,1,1,0,0,0,0,0,0,0,1
+Ireland - Italia,20'-40',12,0,Italia,Coup de pied,1707856178.8101711,1707856190.5532277,10m2,7,40m3,8,Faute -,Passe,3,0,1,0,0,0,0,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Coup de pied,1707856204.6873076,1707856274.7423084,40m2,5,40m4,9,Faute -,Ruck +,14,3,5,0,2,0,0,0,1,0
+Ireland - Italia,20'-40',12,0,Italia,Touche,1707856283.6700778,1707856329.1085968,10m1,6,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Coup de pied,1707856335.004597,1707856346.6667526,10m1,6,40m3,8,Perte,Jeu au pied,3,1,0,0,0,1,0,0,0,0
+Ireland - Italia,20'-40',12,0,Italia,Coup de pied,1707856352.371145,1707856358.8929074,40m2,5,40m2,5,Faute +,Ruck,0,1,0,0,0,0,0,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Touche +,1707856378.067921,1707856390.1528375,40m1,4,40m4,9,Perte,Dégagement,1,1,0,0,0,0,0,0,0,1
+Ireland - Italia,20'-40',12,0,Ireland,Coup de pied,1707856406.0098283,1707856424.3164191,40m2,5,10m2,7,Perte,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Ireland - Italia,20'-40',12,0,Italia,Coup de pied,1707856430.295952,1707856437.231787,10m1,6,10m2,7,Faute -,Ruck +,0,0,1,0,0,0,0,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Turnover,1707856452.8496087,1707856467.1118357,40m2,5,40m2,5,Faute +,Passe,4,1,1,0,0,0,0,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Touche,1707856493.3329203,1707856526.792656,40m3,8,40m3,8,Faute +,Ruck,3,1,0,0,0,0,1,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Mêlée,1707856557.6562772,1707856568.8578672,40m3,8,40m4,9,Faute +,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+Ireland - Italia,20'-40',12,0,Ireland,Touche,1707856591.2742765,1707856657.378308,22m3,10,En-but,11,Essai,Départ ruck,1,2,2,0,0,0,1,0,3,0
+Ireland - Italia,20'-40',19,0,Ireland,Coup de pied,1707856675.5007634,1707856717.6314414,22m2,3,22m4,11,Touche,Jeu au pied,8,0,3,0,0,1,0,0,0,0
+Ireland - Italia,20'-40',19,0,Italia,Touche,1707856734.5025728,1707856752.7419465,22m1,2,22m1,2,Touche,Dégagement,1,1,0,0,0,0,0,0,0,1
+Ireland - Italia,40'-60',19,0,Italia,Coup de pied,1707856801.5172012,1707856853.143934,22m2,3,10m1,6,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Italia,40'-60',19,0,Ireland,Coup de pied,1707856857.2269726,1707856880.859251,10m2,7,10m2,7,Perte,Ruck +,5,2,2,0,0,0,0,0,0,0
+Ireland - Italia,40'-60',19,0,Italia,Turnover,1707856890.0587254,1707856904.0799043,10m1,6,40m4,9,Perte,Jeu au pied,3,0,1,0,1,1,0,0,0,0
+Ireland - Italia,40'-60',19,0,Ireland,Touche,1707856910.3903408,1707856995.5027182,40m3,8,En-but2,12,Touche,Jeu au pied,3,0,0,0,0,1,0,0,0,0
+Ireland - Italia,40'-60',19,0,Italia,Touche,1707857038.8363023,1707857054.8749342,40m3,8,40m3,8,Faute -,Passe,1,0,0,0,0,0,0,0,0,0
+Ireland - Italia,40'-60',19,0,Ireland,Touche,1707857066.1752183,1707857107.9647315,10m1,6,10m2,7,Faute -,Offload,13,2,2,2,0,0,0,0,0,0
+Ireland - Italia,40'-60',19,0,Italia,Touche,1707857121.7859426,1707857146.889606,10m2,7,10m2,7,Faute -,Passe,3,0,0,0,0,0,0,0,0,0
+Ireland - Italia,40'-60',19,0,Ireland,Touche,1707857152.215158,1707857180.974398,22m4,11,En-but,11,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+Ireland - Italia,40'-60',24,0,Ireland,Coup de pied,1707857192.954038,1707857234.7944756,22m2,3,,0,Supprimer,Passe,1,1,0,0,0,0,0,0,0,0
+Ireland - Italia,40'-60',24,0,Ireland,Coup de pied,1707857236.1044192,1707857440.4344316,22m2,3,22m4,11,Faute -,Ruck +,29,14,10,2,0,1,0,0,5,0
+Ireland - Italia,40'-60',24,0,Italia,Touche,1707857491.9699538,1707857519.3483465,10m1,6,10m1,6,Perte,Passe,7,1,1,0,0,0,0,0,0,0
+Ireland - Italia,40'-60',24,0,Ireland,Turnover,1707857524.4051378,1707857531.855981,10m2,7,10m2,7,Faute +,Ruck +,0,0,1,1,0,0,0,0,0,0
+Ireland - Italia,40'-60',24,0,Ireland,Touche,1707857574.7768037,1707857592.2673585,22m3,10,22m3,10,Faute -,Passe,3,0,0,0,0,0,1,0,0,0
+Ireland - Italia,40'-60',24,0,Italia,Turnover,1707857612.5776794,1707857623.250669,22m2,3,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Ireland - Italia,40'-60',24,0,Ireland,Touche +,1707857649.5495284,1707857663.6876872,10m1,6,40m4,9,Touche,Passe,4,0,1,0,0,0,0,0,0,0
+Ireland - Italia,40'-60',24,0,Italia,Jeux rapide,1707857677.0751567,1707857688.9137738,40m1,4,40m1,4,Touche,Dégagement,2,0,0,0,0,0,0,0,0,1
+Ireland - Italia,60'-80',24,0,Ireland,Touche,1707857715.2517743,1707857780.1372046,40m4,9,En-but,11,Essai,Ruck +,17,5,2,0,0,0,0,0,0,0
+Ireland - Italia,60'-80',29,0,Ireland,Coup de pied,1707857785.6507468,1707857823.796874,22m2,3,10m2,7,Perte,Dégagement,3,2,0,0,0,0,0,0,0,1
+Ireland - Italia,60'-80',29,0,Ireland,,1707857828.1344576,1707857829.568233,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Italia,60'-80',29,0,Italia,Coup de pied,1707857832.7691102,1707857899.8952687,10m1,6,10m2,7,Faute -,Ruck,10,5,2,2,0,0,0,0,1,0
+Ireland - Italia,60'-80',29,0,Ireland,Jeux rapide,1707857903.90395,1707857967.917169,10m1,6,40m3,8,Faute -,Ruck +,8,1,2,0,0,0,0,0,0,0
+Ireland - Italia,60'-80',29,0,Ireland,Touche +,1707857974.78928,1707858006.97891,40m2,5,10m2,7,Perte,Jeu au pied,4,1,1,0,0,1,0,0,0,0
+Ireland - Italia,60'-80',29,0,Italia,Coup de pied,1707858014.5182247,1707858018.4726882,10m1,6,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Ireland - Italia,60'-80',29,0,Ireland,Touche +,1707858036.1328814,1707858052.075421,40m1,4,10m2,7,Faute -,Jeu au pied,5,1,0,0,0,1,0,0,0,0
+Ireland - Italia,60'-80',29,0,Ireland,Mêlée,1707858060.868691,1707858107.487147,10m2,7,22m3,10,Faute -,Passe,3,0,1,0,1,0,0,0,0,0
+Ireland - Italia,60'-80',29,0,Italia,Turnover,1707858134.1988544,1707858157.6638138,22m2,3,22m2,3,Faute +,Ruck,1,2,0,0,0,0,0,0,0,0
+Ireland - Italia,60'-80',29,0,Italia,Touche,1707858165.7401705,1707858241.3332312,10m1,6,10m1,6,Faute -,Passe,7,5,1,0,0,1,0,0,0,0
+Ireland - Italia,60'-80',29,0,Ireland,Mêlée,1707858247.8071284,1707858263.4423313,10m2,7,10m2,7,Faute -,Passe,4,0,0,0,0,0,0,0,0,0
+Ireland - Italia,60'-80',29,0,Ireland,Touche,1707858284.873439,1707858334.4586668,22m3,10,En-but,11,Essai,Passe,7,1,2,1,0,0,1,0,2,0
+Ireland - Italia,60'-80',36,0,Ireland,Coup de pied,1707858349.5542614,1707858376.7324395,40m2,5,10m1,6,Faute +,Ruck +,5,1,1,0,0,0,0,0,0,0
+Ireland - Italia,60'-80',36,0,Ireland,Touche,1707858381.266862,1707858453.9853096,40m3,8,40m4,9,Faute +,Ruck +,13,3,4,0,2,0,0,0,1,0
+Ireland - Italia,60'-80',36,0,Ireland,Touche,1707858488.700049,1707858511.249299,22m4,11,22m4,11,Faute -,Départ ruck,0,0,0,0,0,0,1,0,1,0

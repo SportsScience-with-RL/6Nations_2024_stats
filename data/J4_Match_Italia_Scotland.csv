@@ -1,0 +1,76 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Italia - Scotland,0'-20',0,0,Scotland,Coup de pied,1710258042.355168,1710258048.9948843,22m2,3,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Italia - Scotland,0'-20',0,0,Scotland,Coup de pied,1710258052.290016,1710258090.8285925,22m2,3,22m2,3,Faute -,Ruck +,0,0,1,0,0,0,0,0,0,0
+Italia - Scotland,0'-20',3,0,Italia,Coup de pied,1710258109.6302462,1710258167.325141,22m2,3,10m1,6,Faute -,Jeu au pied,5,1,2,0,0,1,0,0,0,0
+Italia - Scotland,0'-20',3,0,Scotland,Mêlée,1710258179.5248976,1710258320.0258272,10m2,7,En-but,13,Essai,Départ ruck,22,9,7,2,3,1,0,0,3,0
+Italia - Scotland,0'-20',3,7,Scotland,Coup de pied,1710258356.321281,1710258382.399903,22m2,3,10m1,6,Touche,Jeu au pied,0,0,1,0,0,1,0,0,0,0
+Italia - Scotland,0'-20',3,7,Italia,Touche,1710258396.084252,1710258419.9667454,10m2,7,40m3,8,Faute -,Ruck,5,1,2,0,0,0,0,0,1,0
+Italia - Scotland,0'-20',3,7,Scotland,Touche,1710258437.1423306,1710258473.0336616,40m3,8,22m4,11,Faute -,Ruck +,8,0,3,0,1,0,0,0,0,0
+Italia - Scotland,0'-20',3,7,Scotland,Touche,1710258479.2646523,1710258550.7206318,40m4,9,En-but,13,Essai,Passe,10,2,4,2,0,0,0,0,0,0
+Italia - Scotland,0'-20',3,14,Scotland,Coup de pied,1710258585.8956733,1710258608.6023762,22m2,3,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Italia - Scotland,0'-20',3,14,Italia,Coup de pied,1710258613.0271616,1710258629.045488,10m1,6,10m2,7,Faute +,Ruck,2,1,1,0,0,0,0,0,0,0
+Italia - Scotland,0'-20',3,14,Italia,Touche,1710258635.2594001,1710258658.3760362,22m3,10,En-but,13,Essai,Jeu au pied,1,0,0,0,0,1,1,0,0,0
+Italia - Scotland,0'-20',10,14,Italia,Coup de pied,1710258678.4290311,1710258709.9060357,22m1,2,10m1,6,Perte,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Italia - Scotland,0'-20',10,14,Scotland,Coup de pied,1710258715.9464028,1710258729.6577656,10m2,7,22m3,10,Perte,Jeu au pied,3,1,0,1,0,1,0,0,0,0
+Italia - Scotland,0'-20',10,14,Scotland,Touche,1710258733.612677,1710258799.1454551,10m1,6,22m4,11,Perte,Jeu au pied,5,4,1,0,0,2,0,0,0,0
+Italia - Scotland,0'-20',10,14,Scotland,Jeux rapide,1710258804.7909539,1710258832.238296,40m2,5,10m1,6,Faute +,Ruck +,2,0,1,0,0,0,0,0,0,0
+Italia - Scotland,0'-20',10,14,Scotland,Mêlée,1710258842.77199,1710258882.8677812,10m1,6,40m3,8,Touche,Jeu au pied,5,0,1,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',10,14,Italia,Touche,1710258906.3955088,1710258920.0956683,40m2,5,40m2,5,Perte,Ruck +,1,0,1,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',10,14,Scotland,Turnover,1710258930.796204,1710258977.0277722,40m3,8,40m3,8,Supprimer,Ruck +,7,3,1,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',10,14,Scotland,Turnover,1710259008.1491933,1710259057.1430855,40m3,8,40m3,8,Faute -,Ruck +,7,3,1,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',10,14,Italia,Turnover,1710259063.0583072,1710259072.7457998,40m2,5,22m3,10,Perte,Jeu au pied,3,0,0,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',10,14,Scotland,Coup de pied,1710259084.6390264,1710259099.21734,22m2,3,40m2,5,Faute +,Ruck +,1,0,2,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',10,14,Scotland,Touche,1710259109.0373266,1710259161.4476585,22m3,10,22m4,11,Faute +,Passe,7,1,2,0,0,0,1,0,0,0
+Italia - Scotland,20'-40',10,17,Scotland,Coup de pied,1710259186.5938685,1710259221.4543705,22m2,3,10m2,7,Touche,Jeu au pied,1,2,0,0,0,0,0,0,0,1
+Italia - Scotland,20'-40',10,17,Italia,Touche,1710259245.826184,1710259281.6239703,10m1,6,10m2,7,Perte,Passe,6,3,2,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',10,17,Scotland,Turnover,1710259286.3869123,1710259298.4541566,10m1,6,22m1,2,Touche,Dégagement,1,0,0,1,0,0,0,0,0,1
+Italia - Scotland,20'-40',10,17,Scotland,Touche,1710259342.4568036,1710259354.3617818,22m4,11,En-but,13,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+Italia - Scotland,20'-40',10,22,Scotland,Coup de pied,1710259383.7553792,1710259419.7188985,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',10,22,Italia,Touche,1710259434.6848304,1710259470.563943,40m3,8,22m4,11,Touche,Jeu au pied,6,1,1,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',10,22,Scotland,Touche,1710259486.3174937,1710259504.0189054,22m1,2,40m2,5,Touche,Dégagement,3,1,0,0,0,0,0,0,0,1
+Italia - Scotland,20'-40',10,22,Italia,Touche,1710259535.6731136,1710259591.8883135,40m3,8,40m3,8,Faute +,Jeu au pied,8,4,1,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',13,22,Italia,Coup de pied,1710259617.8217604,1710259652.1745234,22m2,3,,0,Supprimer,Jeu au pied,0,0,1,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',13,22,Scotland,Coup de pied,1710259658.7366521,1710259666.621025,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',13,22,Scotland,Coup de pied,1710259669.1749606,1710259691.427237,10m2,7,,0,Supprimer,Passe,2,1,0,1,0,0,0,0,1,0
+Italia - Scotland,20'-40',13,22,Scotland,Coup de pied,1710259694.314013,1710259713.6132216,10m2,7,40m2,5,Faute -,Passe,2,1,0,1,0,0,0,0,1,0
+Italia - Scotland,20'-40',13,22,Italia,Turnover,1710259724.049854,1710259793.101933,10m2,7,40m3,8,Faute -,Passe,13,4,2,0,1,0,0,0,0,0
+Italia - Scotland,20'-40',13,22,Scotland,Turnover,1710259799.176157,1710259811.036829,40m2,5,22m3,10,Faute -,Ruck +,0,0,1,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',13,22,Scotland,Coup de pied,1710259819.8563406,1710259842.3912673,40m1,4,10m1,6,Faute -,Ruck +,0,0,1,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',16,22,Italia,Coup de pied,1710259874.149416,1710259881.4549124,22m3,10,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',16,22,Italia,Coup de pied,1710259887.2530694,1710259912.8871276,22m2,3,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Italia - Scotland,20'-40',16,22,Scotland,Coup de pied,1710259917.1391864,1710259933.315566,10m2,7,10m1,6,Perte,Passe,3,1,1,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',16,22,Italia,Coup de pied,1710259968.3810592,1710260064.6867962,10m1,6,22m4,11,Faute -,Ruck,15,5,8,0,0,0,0,0,1,0
+Italia - Scotland,20'-40',16,22,Scotland,Touche,1710260088.1832664,1710260114.5495732,40m3,8,40m3,8,Faute -,Passe,6,2,0,0,0,0,0,0,0,0
+Italia - Scotland,20'-40',16,22,Italia,Turnover,1710260124.135251,1710260129.7367206,40m2,5,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',16,22,Italia,Coup de pied,1710260137.6466851,1710260190.3373156,22m2,3,10m2,7,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+Italia - Scotland,40'-60',16,22,Scotland,Coup de pied,1710260196.0386999,1710260253.4494925,10m1,6,40m3,8,Faute -,Passe,14,5,1,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',16,22,Italia,Coup de pied,1710260300.7719095,1710260347.827596,10m2,7,En-but,13,Essai,Jeu au pied,8,0,3,0,0,1,0,0,0,0
+Italia - Scotland,40'-60',21,22,Scotland,Touche +,1710260394.8852127,1710260419.4976537,10m1,6,40m2,5,Perte,Passe,5,2,1,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',21,22,Italia,Turnover,1710260426.1562228,1710260439.1628096,40m3,8,40m3,8,Faute -,Passe,2,1,1,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',21,22,Scotland,Turnover,1710260446.3165631,1710260465.3055546,40m2,5,40m4,9,Touche,Passe,3,0,1,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',21,22,Italia,Touche,1710260489.2275972,1710260494.7456403,40m1,4,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',21,22,Scotland,Touche,1710260495.832483,1710260551.8431177,40m3,8,10m2,7,Supprimer,Jeu au pied,3,2,0,0,0,1,0,0,0,0
+Italia - Scotland,40'-60',21,22,Italia,Touche,1710260616.988211,1710260643.888096,40m3,8,10m1,6,Perte,Jeu au pied,3,2,0,0,0,1,0,0,0,0
+Italia - Scotland,40'-60',21,22,Scotland,Turnover,1710260673.4121902,1710260681.737477,10m1,6,,0,Supprimer,Passe,1,1,0,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',21,22,Italia,Coup de pied,1710260693.4979656,1710260715.4796076,22m1,2,10m2,7,Perte,Dégagement,1,0,1,0,0,0,0,0,0,1
+Italia - Scotland,40'-60',21,22,Scotland,Coup de pied,1710260723.4745924,1710260750.2175148,10m1,6,,0,Supprimer,Ruck,4,2,1,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',21,22,Italia,Mêlée,1710260784.9016817,1710260793.2910957,10m1,6,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - Scotland,40'-60',21,22,Italia,Touche,1710260795.1895278,1710260860.2543073,40m4,9,22m3,10,Faute -,Passe,7,2,2,0,0,0,1,0,0,0
+Italia - Scotland,40'-60',21,22,Scotland,Coup de pied,1710260867.7306561,1710260945.8645139,40m1,4,10m1,6,Perte,Jeu au pied,2,3,0,0,0,1,0,0,0,0
+Italia - Scotland,40'-60',21,22,Italia,Coup de pied,1710260954.02728,1710261058.3073218,10m2,7,En-but,13,Essai,Départ ruck,21,5,7,0,0,0,0,0,4,0
+Italia - Scotland,40'-60',28,22,Italia,Coup de pied,1710261114.4509215,1710261141.276412,22m2,3,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - Scotland,60'-80',28,22,Scotland,Coup de pied,1710261177.8183334,1710261212.9010324,40m2,5,,0,Supprimer,Jeu au pied,0,0,1,0,0,1,0,0,0,0
+Italia - Scotland,60'-80',28,22,Italia,Coup de pied,1710261219.3746,1710261246.162614,10m1,6,10m2,7,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Italia - Scotland,60'-80',28,22,Scotland,Coup de pied,1710261258.1132338,1710261281.832668,10m1,6,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Italia - Scotland,60'-80',28,22,Italia,Coup de pied,1710261289.4673858,1710261326.8882937,10m1,6,40m4,9,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Italia - Scotland,60'-80',28,22,Scotland,Coup de pied,1710261342.34269,1710261365.5885627,40m1,4,10m1,6,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Italia - Scotland,60'-80',28,22,Italia,Coup de pied,1710261375.9298177,1710261387.3443425,10m2,7,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - Scotland,60'-80',28,22,Scotland,Mêlée,1710261397.946346,1710261430.3169477,10m2,7,40m3,8,Faute -,Ruck +,4,0,1,0,0,0,0,0,0,0
+Italia - Scotland,60'-80',28,22,Scotland,Mêlée,1710261623.6040847,1710261697.4354162,40m2,5,40m4,9,Perte,Ruck,10,4,2,0,1,0,0,0,0,0
+Italia - Scotland,60'-80',28,22,Italia,Touche,1710261792.6682258,1710261860.8582976,10m1,6,,0,Supprimer,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Italia - Scotland,60'-80',28,22,Scotland,Coup de pied,1710261865.984211,1710261895.6501613,40m2,5,10m1,6,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Italia - Scotland,60'-80',28,22,Italia,Coup de pied,1710261908.0444005,1710261914.784671,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - Scotland,60'-80',31,22,Scotland,Coup de pied,1710261952.342238,1710262114.9518132,40m3,8,22m4,11,Perte,Passe,30,9,8,2,2,0,0,0,1,0
+Italia - Scotland,60'-80',31,22,Scotland,Coup de pied,1710262120.5101736,1710262165.253151,10m1,6,40m3,8,Faute +,Ruck +,1,0,2,0,0,0,0,0,1,0
+Italia - Scotland,60'-80',31,22,Scotland,Touche,1710262171.4658823,1710262256.5556633,22m4,11,En-but,13,Essai,Passe,3,0,2,0,0,0,1,0,0,0
+Italia - Scotland,60'-80',31,29,Scotland,Coup de pied,1710262279.26726,1710262519.3233552,22m2,3,40m3,8,Faute -,Offload,47,16,9,2,3,1,0,0,0,0

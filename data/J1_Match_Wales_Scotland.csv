@@ -1,0 +1,74 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Wales - Scotland,0'-20',0,0,Scotland,Coup de pied,1707426879.2703419,1707426904.8736563,22m2,3,10m2,7,Perte,Dégagement,0,0,1,0,0,0,0,0,0,1
+Wales - Scotland,0'-20',0,0,Wales,Coup de pied,1707426917.2216225,1707426953.8858435,10m1,6,22m3,10,Perte,Jeu au pied,5,2,2,0,0,1,0,0,0,0
+Wales - Scotland,0'-20',0,0,Scotland,Touche,1707426968.0267522,1707427004.2663949,10m2,7,40m4,9,Perte,Offload +,3,1,0,0,1,1,0,0,0,0
+Wales - Scotland,0'-20',0,0,Wales,Turnover,1707427018.533255,1707427087.6171403,40m1,4,40m3,8,Perte,Jeu au pied,6,1,3,0,0,2,0,0,0,0
+Wales - Scotland,0'-20',0,0,Scotland,Coup de pied,1707427107.2534704,1707427137.2671516,40m2,5,40m2,5,Faute +,Ruck +,3,2,2,0,0,1,0,0,0,0
+Wales - Scotland,0'-20',0,0,Scotland,Touche,1707427146.542002,1707427187.5248504,40m4,9,22m3,10,Faute +,Jeu au pied,5,1,1,0,0,1,1,0,0,0
+Wales - Scotland,0'-20',0,3,Scotland,Coup de pied,1707427211.036899,1707427237.3478403,22m2,3,10m2,7,Touche,Dégagement,0,1,0,0,0,0,0,0,0,1
+Wales - Scotland,0'-20',0,3,Wales,Touche,1707427245.9103372,1707427261.7810843,10m1,6,40m3,8,Perte,Dégagement,4,1,0,0,0,0,0,0,0,1
+Wales - Scotland,0'-20',0,3,Scotland,Coup de pied,1707427272.6627102,1707427285.9237077,40m2,5,10m1,6,Faute +,Jeu au pied,1,0,1,1,0,1,0,0,0,0
+Wales - Scotland,0'-20',0,3,Scotland,Touche,1707427301.7165275,1707427330.9411616,22m3,10,22m4,11,Faute -,Ruck,4,2,1,0,0,0,0,0,0,0
+Wales - Scotland,0'-20',0,3,Scotland,Touche +,1707427337.9234955,1707427465.1127484,40m3,8,En-but,11,Essai,Ruck,17,7,5,0,0,0,0,0,4,0
+Wales - Scotland,0'-20',0,10,Scotland,Coup de pied,1707427500.203438,1707427533.5801678,22m2,3,10m2,7,Touche,Dégagement,0,0,1,0,0,0,0,0,0,1
+Wales - Scotland,0'-20',0,10,Wales,Touche,1707427541.329847,1707427566.214068,10m1,6,10m2,7,Perte,Dégagement,5,1,0,0,0,1,0,0,0,0
+Wales - Scotland,0'-20',0,10,Scotland,Coup de pied,1707427586.8696291,1707427592.7212992,10m1,6,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Wales - Scotland,0'-20',0,10,Scotland,Touche,1707427595.8829665,1707427606.7187855,10m1,6,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Scotland,0'-20',0,10,Wales,Touche +,1707427612.5847647,1707427642.8748722,10m2,7,22m4,11,Perte,Dégagement,6,2,1,0,0,0,0,0,0,1
+Wales - Scotland,0'-20',0,10,Wales,Coup de pied,1707427649.4370182,1707427670.9394622,10m1,6,10m2,7,Faute +,Jeu au pied,0,0,1,0,0,1,0,0,0,0
+Wales - Scotland,0'-20',0,10,Wales,Touche,1707427684.6330514,1707427714.762287,22m4,11,22m4,11,Faute -,Ruck +,3,0,2,0,0,0,0,0,0,0
+Wales - Scotland,0'-20',0,10,Scotland,Mêlée,1707427737.3929865,1707427768.017131,22m1,2,40m2,5,Touche,Dégagement,2,0,2,0,0,0,0,0,0,1
+Wales - Scotland,0'-20',0,10,Wales,Touche,1707427784.2374935,1707427821.915718,40m3,8,40m4,9,Faute -,Maul,9,2,1,0,0,0,1,0,0,0
+Wales - Scotland,20'-40',0,13,Scotland,Coup de pied,1707427884.815073,1707427909.8277051,40m1,4,40m3,8,Supprimer,Dégagement,0,1,0,0,0,0,0,0,0,1
+Wales - Scotland,20'-40',0,13,Scotland,Coup de pied,1707427927.2985046,1707427961.2178614,40m1,4,10m2,7,Perte,Jeu au pied,1,1,1,1,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,13,Wales,Coup de pied,1707427967.8780475,1707427984.8161688,10m1,6,10m1,6,Faute +,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,13,Wales,Mêlée,1707428020.405319,1707428045.6531677,10m1,6,10m2,7,Perte,Ruck +,2,0,1,0,0,0,0,0,0,0
+Wales - Scotland,20'-40',0,13,Scotland,Turnover,1707428055.1966147,1707428080.7823455,10m1,6,10m2,7,Faute -,Ruck +,6,1,2,0,0,0,0,0,0,0
+Wales - Scotland,20'-40',0,13,Wales,Touche,1707428097.6701598,1707428183.5207417,22m3,10,22m3,10,Perte,Passe,10,6,4,0,0,0,0,0,0,0
+Wales - Scotland,20'-40',0,13,Scotland,Touche +,1707428211.545845,1707428278.0607753,40m3,8,En-but,11,Essai,Passe,15,1,6,0,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,20,Scotland,Coup de pied,1707428297.5444548,1707428319.5608647,22m2,3,,0,Supprimer,Dégagement,0,0,1,0,0,0,0,0,0,1
+Wales - Scotland,20'-40',0,20,Wales,Coup de pied,1707428325.5043015,1707428386.7640648,10m1,6,40m3,8,Perte,Jeu au pied,7,5,2,0,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,20,Scotland,Coup de pied,1707428394.828686,1707428426.4592102,40m2,5,40m3,8,Perte,Jeu au pied,2,3,0,0,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,20,Wales,Coup de pied,1707428433.8294427,1707428458.5442946,40m2,5,10m2,7,Faute +,Jeu au pied,2,0,2,0,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,20,Scotland,Touche +,1707428506.5383136,1707428529.490932,22m2,3,22m1,2,Perte,Passe,2,0,1,0,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,20,Wales,Turnover,1707428540.6438868,1707428543.2966156,22m4,11,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Scotland,20'-40',0,20,Scotland,Touche +,1707428620.782704,1707428657.9609904,22m1,2,40m1,4,Touche,Dégagement,1,1,1,0,0,0,0,0,0,1
+Wales - Scotland,20'-40',0,20,Scotland,Touche +,1707428670.1429584,1707428697.0624297,40m1,4,10m1,6,Faute -,Ruck +,2,0,2,0,0,0,0,0,1,0
+Wales - Scotland,20'-40',0,20,Wales,Coup de pied,1707428704.4130783,1707428732.99274,10m1,6,40m4,9,Perte,Jeu au pied,3,1,1,0,0,1,0,0,0,0
+Wales - Scotland,20'-40',0,20,Scotland,Coup de pied,1707428739.6242461,1707428741.4137132,40m1,4,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Scotland,20'-40',0,20,Scotland,Touche,1707428744.5830746,1707428772.9215972,40m1,4,22m2,3,Supprimer,Passe,2,0,0,0,0,0,0,0,0,0
+Wales - Scotland,20'-40',0,20,Wales,Touche,1707428783.5549622,1707428795.6421478,40m4,9,40m4,9,Faute -,Passe,2,0,0,0,0,0,0,0,0,0
+Wales - Scotland,40'-60',0,20,Wales,Coup de pied,1707428803.3057382,1707428858.5848699,22m2,3,10m1,6,Perte,Dégagement,1,1,1,0,0,0,0,0,0,1
+Wales - Scotland,40'-60',0,20,Scotland,Coup de pied,1707428875.224999,1707428926.6446733,10m2,7,40m4,9,Perte,Jeu au pied,11,4,2,0,0,1,0,0,0,0
+Wales - Scotland,40'-60',0,20,Wales,Coup de pied,1707428933.9038072,1707428961.518647,40m1,4,10m2,7,Perte,Dégagement,1,2,0,0,0,0,0,0,0,1
+Wales - Scotland,40'-60',0,20,Scotland,Coup de pied,1707428966.497243,1707428974.4067228,10m1,6,En-but,11,Essai,Offload,1,0,0,1,0,0,0,0,0,0
+Wales - Scotland,40'-60',0,27,Scotland,Coup de pied,1707428987.5806677,1707429013.442544,40m1,4,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Wales - Scotland,40'-60',0,27,Wales,Touche,1707429037.156668,1707429069.578329,10m1,6,10m2,7,Faute +,Jeu au pied,4,0,2,0,0,1,1,0,0,0
+Wales - Scotland,40'-60',0,27,Wales,Touche,1707429076.4966674,1707429117.1401114,22m3,10,22m3,10,Faute +,Offload,3,0,2,2,0,0,1,0,0,0
+Wales - Scotland,40'-60',0,27,Wales,Touche,1707429124.114014,1707429149.3032455,22m4,11,En-but,11,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+Wales - Scotland,40'-60',5,27,Scotland,Jeux rapide,1707429184.9397917,1707429222.4386268,10m1,6,40m3,8,Perte,Jeu au pied,3,1,1,0,0,1,0,0,0,0
+Wales - Scotland,40'-60',5,27,Wales,Coup de pied,1707429227.1335928,1707429242.5745928,40m2,5,10m1,6,Faute +,Passe,3,1,1,0,0,0,0,0,0,0
+Wales - Scotland,40'-60',5,27,Wales,Jeux rapide,1707429250.0358164,1707429283.144725,10m1,6,40m3,8,Faute -,Passe,6,1,2,0,0,0,0,0,0,0
+Wales - Scotland,40'-60',5,27,Wales,Touche,1707429290.4395592,1707429326.3542752,22m4,11,22m4,11,Faute +,Maul,0,0,0,0,0,0,1,0,0,0
+Wales - Scotland,40'-60',5,27,Wales,Jeux rapide,1707429356.8485668,1707429402.396617,22m4,11,En-but,11,Essai,Passe,6,1,4,1,0,0,0,0,0,0
+Wales - Scotland,40'-60',12,27,Wales,Coup de pied,1707429420.8277795,1707429451.387915,22m2,3,,0,Perte,Dégagement,1,1,1,0,0,0,0,0,0,1
+Wales - Scotland,40'-60',12,27,Scotland,Coup de pied,1707429454.8871982,1707429461.8574796,10m1,6,40m3,8,Perte,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+Wales - Scotland,40'-60',12,27,Wales,Coup de pied,1707429468.3168967,1707429494.896585,40m2,5,22m3,10,Perte,Jeu au pied,5,2,0,0,0,1,0,0,0,0
+Wales - Scotland,40'-60',12,27,Wales,Touche,1707429499.7843416,1707429518.4830275,10m1,6,40m4,9,Perte,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+Wales - Scotland,40'-60',12,27,Scotland,Coup de pied,1707429531.9468992,1707429560.0587027,40m1,4,10m1,6,Touche,Dégagement,0,1,0,0,0,0,0,0,0,1
+Wales - Scotland,40'-60',12,27,Wales,Touche,1707429568.720473,1707429650.901546,10m2,7,40m4,9,Faute +,Ruck,15,5,2,1,0,1,0,0,0,0
+Wales - Scotland,40'-60',12,27,Wales,Touche,1707429658.1455123,1707429802.3065786,22m4,11,22m4,11,Faute +,Ruck,8,8,2,0,0,0,1,0,1,0
+Wales - Scotland,60'-80',12,27,Wales,Jeux rapide,1707429812.6838686,1707429828.9277868,22m4,11,En-but,11,Essai,Départ ruck,0,1,0,0,0,0,0,0,1,0
+Wales - Scotland,60'-80',19,27,Wales,Coup de pied,1707429838.7388763,1707429956.5728705,22m2,3,22m3,10,Perte,Jeu au pied,22,4,6,1,0,1,1,0,0,0
+Wales - Scotland,60'-80',19,27,Scotland,Coup de pied,1707429973.9378495,1707429996.1579633,22m2,3,22m3,10,Perte,Dégagement,3,0,2,1,1,0,0,0,1,1
+Wales - Scotland,60'-80',19,27,Wales,Mêlée,1707430015.7267075,1707430112.370647,40m2,5,22m3,10,Faute +,Passe,18,4,2,0,0,0,0,0,0,0
+Wales - Scotland,60'-80',19,27,Wales,Touche,1707430124.8227754,1707430139.7913296,22m4,11,En-but,11,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+Wales - Scotland,60'-80',26,27,Wales,Coup de pied,1707430148.159185,1707430185.726158,40m1,4,,0,Supprimer,Dégagement,0,1,0,0,0,0,0,0,0,1
+Wales - Scotland,60'-80',26,27,Wales,Coup de pied,1707430190.7285614,1707430244.5442355,40m1,4,10m2,7,Perte,Jeu au pied,3,4,0,0,0,1,0,0,0,0
+Wales - Scotland,60'-80',26,27,Scotland,Coup de pied,1707430249.149586,1707430284.3608165,10m1,6,10m2,7,Faute +,Ruck +,6,3,2,0,0,0,0,0,0,0
+Wales - Scotland,60'-80',26,27,Scotland,Mêlée,1707430297.6861129,1707430428.1879745,10m2,7,40m3,8,Faute -,Ruck,24,9,6,0,0,1,0,0,0,0
+Wales - Scotland,60'-80',26,27,Scotland,Touche +,1707430452.9132187,1707430459.6476939,40m2,5,40m4,9,Perte,Dégagement,2,0,0,0,0,0,0,0,0,1
+Wales - Scotland,60'-80',26,27,Wales,Coup de pied,1707430478.5690682,1707430485.5291426,40m1,4,40m3,8,Perte,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+Wales - Scotland,60'-80',26,27,Scotland,Coup de pied,1707430490.2345989,1707430498.8387787,40m2,5,,0,Supprimer,Dégagement,1,0,0,0,0,0,0,0,0,1
+Wales - Scotland,60'-80',26,27,Wales,Touche +,1707430520.1306286,1707430583.8995025,10m2,7,10m1,6,Faute -,Passe,13,6,2,0,0,0,0,0,0,0
+Wales - Scotland,60'-80',26,27,Scotland,Mêlée,1707430594.1884513,1707430722.5401428,10m2,7,En-but2,12,Faute -,Ruck +,9,6,9,0,0,0,0,0,8,0

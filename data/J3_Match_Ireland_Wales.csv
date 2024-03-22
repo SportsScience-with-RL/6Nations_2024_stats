@@ -1,0 +1,74 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Ireland - Wales,0'-20',0,0,Wales,Coup de pied,1708982468.7830188,1708982496.173866,22m1,2,10m2,7,Perte,Dégagement,1,1,1,0,0,0,0,0,0,1
+Ireland - Wales,0'-20',0,0,Ireland,Coup de pied,1708982500.8781133,1708982534.9403033,10m1,6,En-but2,12,Perte,Jeu au pied,7,2,1,0,0,1,0,0,0,0
+Ireland - Wales,0'-20',0,0,Ireland,Coup de pied,1708982543.0289125,1708982609.3197248,10m1,6,40m3,8,Faute -,Passe,16,2,5,0,2,0,0,0,0,0
+Ireland - Wales,0'-20',0,0,Wales,Turnover,1708982622.775166,1708982647.5867696,40m2,5,40m2,5,Faute +,Ruck,5,2,1,0,0,0,0,0,0,0
+Ireland - Wales,0'-20',0,0,Wales,Touche,1708982652.288764,1708982699.5163379,40m3,8,40m3,8,Faute -,Ruck,6,3,0,0,0,0,0,0,0,0
+Ireland - Wales,0'-20',0,0,Ireland,Touche,1708982706.4089205,1708982736.8805232,10m2,7,10m2,7,Faute +,Ruck +,7,0,3,0,0,0,0,0,0,0
+Ireland - Wales,0'-20',3,0,Ireland,Coup de pied,1708982760.590459,1708982792.934609,40m1,4,10m1,6,Perte,Dégagement,4,2,0,0,0,0,0,0,0,1
+Ireland - Wales,0'-20',3,0,Wales,Coup de pied,1708982798.61259,1708982818.0103004,10m2,7,40m4,9,Faute -,Ruck,3,2,1,0,0,0,0,0,0,0
+Ireland - Wales,0'-20',3,0,Ireland,Touche,1708982836.5470645,1708982864.6179247,40m3,8,22m3,10,Faute +,Passe,5,1,1,0,0,0,0,0,1,0
+Ireland - Wales,0'-20',3,0,Ireland,Touche,1708982879.78732,1708982894.0902784,22m4,11,,0,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+Ireland - Wales,0'-20',3,0,Ireland,Coup de pied,1708982940.8835447,1708982954.12883,10m1,6,40m3,8,Perte,Jeu au pied,2,0,1,0,0,1,0,0,0,0
+Ireland - Wales,0'-20',3,0,Wales,Coup de pied,1708982958.2589798,1708982961.7380652,40m2,5,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Ireland - Wales,0'-20',3,0,Ireland,Touche,1708982971.7239244,1708983023.0541024,22m3,10,40m4,9,Faute -,Ruck,14,7,0,0,0,0,0,0,0,0
+Ireland - Wales,0'-20',3,0,Ireland,Mêlée,1708983065.5266988,1708983103.1071599,10m1,6,,0,Supprimer,Passe,6,0,5,0,1,0,0,0,2,0
+Ireland - Wales,0'-20',3,0,Ireland,Mêlée,1708983106.5671294,1708983204.358881,10m1,6,40m4,9,Touche,Ruck,20,3,7,2,1,1,0,0,2,0
+Ireland - Wales,0'-20',3,0,Ireland,Touche,1708983251.7172537,1708983255.2966177,22m4,11,En-but,13,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+Ireland - Wales,20'-40',10,0,Ireland,Coup de pied,1708983288.4228706,1708983307.0711102,22m2,3,22m2,3,Faute +,Ruck,2,2,0,0,0,0,0,0,0,0
+Ireland - Wales,20'-40',10,0,Ireland,Touche,1708983311.1244128,1708983349.4113374,10m1,6,40m4,9,Perte,Jeu au pied,0,0,1,0,0,1,1,0,1,0
+Ireland - Wales,20'-40',10,0,Ireland,Touche,1708983355.287088,1708983365.0069773,40m4,9,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Wales,20'-40',10,0,Ireland,Mêlée,1708983393.6370015,1708983412.1409433,40m3,8,22m4,11,Faute -,Ruck +,2,0,1,0,0,0,0,0,1,0
+Ireland - Wales,20'-40',10,0,Wales,Mêlée,1708983429.8785717,1708983481.841802,22m1,2,40m2,5,Perte,Dégagement,1,2,0,0,0,0,0,0,1,1
+Ireland - Wales,20'-40',10,0,Ireland,Coup de pied,1708983485.8017383,1708983506.7802985,40m3,8,40m4,9,Faute +,Ruck,3,3,1,0,0,0,0,0,0,0
+Ireland - Wales,20'-40',10,0,Ireland,Touche,1708983512.3830204,1708983604.8296793,22m4,11,En-but,13,Essai,Passe,11,8,3,1,0,0,1,0,2,0
+Ireland - Wales,20'-40',17,0,Ireland,Coup de pied,1708983627.9585705,1708983662.4605882,22m2,3,10m1,6,Perte,Dégagement,1,2,0,0,0,0,0,0,0,1
+Ireland - Wales,20'-40',17,0,Wales,Coup de pied,1708983667.3795013,1708983708.792993,10m2,7,40m3,8,Faute +,Passe,11,2,3,0,0,0,0,0,0,0
+Ireland - Wales,20'-40',17,0,Wales,Touche,1708983723.1387486,1708983747.7506568,22m4,11,22m4,11,Faute +,Ruck,2,1,0,0,0,0,1,0,0,0
+Ireland - Wales,20'-40',17,0,Wales,Touche,1708983752.3385336,1708983782.8117025,22m4,11,22m3,10,Faute -,Ruck,4,2,0,0,0,0,0,0,0,0
+Ireland - Wales,20'-40',17,0,Wales,Jeux rapide,1708983808.528054,1708983833.6988611,40m4,9,22m3,10,Faute -,Passe,7,1,2,0,0,0,0,0,0,0
+Ireland - Wales,20'-40',17,0,Ireland,Mêlée,1708983841.759148,1708983915.270622,22m2,3,40m2,5,Touche,Passe,17,4,4,0,0,0,0,0,0,0
+Ireland - Wales,40'-60',17,0,Ireland,Coup de pied,1708983922.7859368,1708983977.2729778,22m2,3,40m3,8,Perte,Dégagement,8,0,2,0,0,0,0,0,0,1
+Ireland - Wales,40'-60',17,0,Wales,Coup de pied,1708983981.604915,1708984014.3879433,40m2,5,40m4,9,Perte,Jeu au pied,7,3,1,0,0,2,0,0,0,0
+Ireland - Wales,40'-60',17,0,Ireland,Coup de pied,1708984019.9897048,1708984032.650738,40m1,4,40m4,9,Perte,Dégagement,1,1,0,0,0,0,0,0,0,1
+Ireland - Wales,40'-60',17,0,Wales,Coup de pied,1708984041.085393,1708984050.1351533,40m1,4,10m2,7,Faute +,Ruck +,0,0,1,0,0,0,0,0,0,0
+Ireland - Wales,40'-60',17,0,Wales,Jeux rapide,1708984054.7357712,1708984073.0878496,10m2,7,40m3,8,Faute +,Ruck,2,1,1,0,0,0,0,0,0,0
+Ireland - Wales,40'-60',17,0,Wales,Coup de pied,1708984109.0201395,1708984120.5291488,40m1,4,10m2,7,Perte,Maul,0,1,0,0,0,1,1,0,0,0
+Ireland - Wales,40'-60',17,7,Ireland,Coup de pied,1708984208.8078945,1708984281.9455874,10m1,6,40m3,8,Perte,Ruck,15,6,4,1,0,0,0,0,0,0
+Ireland - Wales,40'-60',17,7,Wales,Turnover,1708984289.0607488,1708984330.1756,40m2,5,10m2,7,Perte,Jeu au pied,2,4,0,0,0,1,0,0,1,0
+Ireland - Wales,40'-60',17,7,Ireland,Coup de pied,1708984334.223511,1708984369.8327353,10m1,6,22m3,10,Perte,Dégagement,4,2,2,0,0,0,0,0,0,1
+Ireland - Wales,40'-60',17,7,Wales,Coup de pied,1708984394.4206755,1708984437.2481854,10m1,6,40m4,9,Perte,Jeu au pied,10,3,2,0,0,1,0,0,0,0
+Ireland - Wales,40'-60',17,7,Ireland,Coup de pied,1708984442.063103,1708984450.510803,40m1,4,40m4,9,Perte,Dégagement,1,0,0,0,0,0,0,0,0,1
+Ireland - Wales,40'-60',17,7,Wales,Coup de pied,1708984461.0859623,1708984490.248312,40m1,4,10m2,7,Faute -,Passe,8,1,2,0,0,0,0,0,0,0
+Ireland - Wales,40'-60',17,7,Ireland,Turnover,1708984501.6196928,1708984531.7202482,10m1,6,40m3,8,Perte,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+Ireland - Wales,40'-60',17,7,Wales,Coup de pied,1708984537.0159855,1708984561.2430818,40m2,5,10m1,6,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Wales,40'-60',17,7,Wales,Coup de pied,1708984567.3496568,1708984620.343621,10m1,6,40m2,5,Supprimer,Jeu au pied,11,3,3,0,0,2,0,0,0,0
+Ireland - Wales,40'-60',17,7,Ireland,Coup de pied,1708984631.6810386,1708984689.1827648,10m2,7,40m3,8,Perte,Jeu au pied,11,3,3,0,0,2,0,0,0,0
+Ireland - Wales,40'-60',17,7,Wales,Coup de pied,1708984693.9990447,1708984713.6657476,40m2,5,40m2,5,Faute +,Ruck,1,2,0,0,0,0,0,0,0,0
+Ireland - Wales,40'-60',17,7,Wales,Touche,1708984716.324384,1708984736.028842,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Ireland - Wales,40'-60',17,7,Wales,Touche,1708984739.6740687,1708984793.9363854,22m3,10,22m4,11,Faute +,Jeu au pied,7,4,4,0,0,1,0,0,3,0
+Ireland - Wales,40'-60',17,7,Wales,Touche,1708984800.6695962,1708984814.4877632,22m4,11,22m4,11,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+Ireland - Wales,40'-60',17,7,Wales,Touche,1708984831.3899872,1708984967.9156032,22m3,10,22m3,10,Faute -,Ruck,11,14,5,0,0,0,0,0,8,0
+Ireland - Wales,40'-60',17,7,Ireland,Touche,1708984987.9005916,1708985079.6248038,10m2,7,22m4,11,Faute -,Passe,24,5,7,0,1,0,0,0,0,0
+Ireland - Wales,60'-80',17,7,Ireland,Coup de pied,1708985163.2014832,1708985205.26167,40m3,8,22m3,10,Faute -,Passe,9,1,4,0,0,0,0,0,0,0
+Ireland - Wales,60'-80',17,7,Wales,Turnover,1708985217.2220442,1708985229.8850503,22m2,3,22m3,10,Perte,Dégagement,3,0,0,0,0,0,0,0,0,1
+Ireland - Wales,60'-80',17,7,Ireland,Touche +,1708985264.659395,1708985282.3910654,40m2,5,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Ireland - Wales,60'-80',17,7,Wales,Coup de pied,1708985291.4120033,1708985323.0539455,40m1,4,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Ireland - Wales,60'-80',17,7,Ireland,Coup de pied,1708985328.2613268,1708985341.1048486,10m1,6,40m4,9,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Ireland - Wales,60'-80',17,7,Wales,Coup de pied,1708985360.2464411,1708985371.8093567,40m2,5,40m4,9,Perte,Dégagement,1,1,0,0,0,0,0,0,0,1
+Ireland - Wales,60'-80',17,7,Wales,Touche,1708985375.759867,1708985417.088886,40m1,4,10m2,7,Perte,Dégagement,3,2,0,0,0,0,0,0,0,1
+Ireland - Wales,60'-80',17,7,Ireland,Coup de pied,1708985419.8669848,1708985434.0306637,10m1,6,,0,Supprimer,Passe,2,1,1,0,0,0,0,0,0,0
+Ireland - Wales,60'-80',17,7,Ireland,Coup de pied,1708985437.6848776,1708985480.8305876,10m1,6,22m3,10,Faute +,Ruck +,10,1,4,0,1,0,0,0,0,0
+Ireland - Wales,60'-80',17,7,Ireland,Touche,1708985485.8261685,1708985521.0296345,22m4,11,En-but,13,Essai,Passe,3,1,1,0,0,0,1,0,0,0
+Ireland - Wales,60'-80',24,7,Ireland,Coup de pied,1708985534.5991797,1708985567.877752,40m1,4,40m3,8,Faute -,Passe,4,0,2,1,0,0,0,0,0,0
+Ireland - Wales,60'-80',24,7,Wales,Turnover,1708985583.9799967,1708985594.8573349,40m1,4,40m2,5,Faute +,Offload,2,1,0,1,0,0,0,0,0,0
+Ireland - Wales,60'-80',24,7,Wales,Touche,1708985600.0500634,1708985629.100319,40m3,8,40m3,8,Faute -,Passe,4,0,0,0,0,0,0,0,0,0
+Ireland - Wales,60'-80',24,7,Ireland,Turnover,1708985634.9313881,1708985640.4990518,40m2,5,40m4,9,Perte,Dégagement,1,0,0,0,0,0,0,0,0,1
+Ireland - Wales,60'-80',24,7,Wales,Mêlée,1708985668.912128,1708985681.6848836,40m3,8,,0,Supprimer,Ruck +,1,0,1,0,0,0,0,0,0,0
+Ireland - Wales,60'-80',24,7,Wales,Mêlée,1708985686.3257995,1708985737.5172884,40m3,8,22m3,10,Faute +,Ruck,12,3,2,0,0,0,0,0,0,0
+Ireland - Wales,60'-80',24,7,Wales,Jeux rapide,1708985744.3224974,1708985923.592333,22m3,10,22m4,11,Faute +,Ruck,9,11,7,0,0,0,0,0,10,0
+Ireland - Wales,60'-80',24,7,Wales,Jeux rapide,1708985927.407659,1708985967.6693282,22m4,11,En-but2,12,Faute -,Ruck,1,3,2,0,0,0,0,0,3,0
+Ireland - Wales,60'-80',24,7,Wales,Coup de pied,1708985973.0708578,1708986063.3824706,10m1,6,10m2,7,Faute -,Ruck,10,4,1,0,0,0,0,0,0,0
+Ireland - Wales,60'-80',24,7,Ireland,Touche,1708986085.7517297,1708986132.5765538,22m3,10,,0,Supprimer,Passe,2,1,1,0,0,0,0,0,0,0
+Ireland - Wales,60'-80',24,7,Ireland,Touche,1708986134.691962,1708986275.2395785,22m3,10,En-but,13,Essai,Passe,28,9,6,0,2,0,0,0,1,0
+Ireland - Wales,60'-80',31,7,Ireland,Coup de pied,1708986306.8380864,1708986317.3095262,22m3,10,22m3,10,Touche,,0,0,0,0,0,0,0,0,0,0

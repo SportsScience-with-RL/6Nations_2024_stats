@@ -1,0 +1,67 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Wales - France,0'-20',0,0,Wales,Coup de pied,1710435351.119208,1710435364.1301725,22m1,2,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,0'-20',0,0,France,Coup de pied,1710435375.0741987,1710435404.362972,10m1,6,40m2,5,Faute -,Ruck,4,3,1,0,0,0,0,0,0,0
+Wales - France,0'-20',3,0,France,Touche,1710435442.890698,1710435593.4283051,10m1,6,22m3,10,Faute +,Passe,29,6,13,0,0,0,1,0,3,0
+Wales - France,0'-20',3,3,France,Coup de pied,1710435614.556501,1710435649.655024,22m2,3,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Wales - France,0'-20',3,3,Wales,Touche,1710435656.145546,1710435696.86514,40m3,8,40m3,8,Supprimer,Jeu au pied,7,3,1,0,0,1,0,0,0,0
+Wales - France,0'-20',3,3,Wales,Touche,1710435724.3486445,1710435816.4282467,40m3,8,En-but,13,Essai,Passe,20,6,4,0,1,1,0,0,1,0
+Wales - France,0'-20',10,3,Wales,Coup de pied,1710435860.461299,1710435889.0034046,40m2,5,40m1,4,Perte,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Wales - France,0'-20',10,3,France,Turnover,1710435899.8739216,1710435918.1207898,40m4,9,40m4,9,Faute -,Passe,2,1,1,0,0,0,0,0,0,0
+Wales - France,0'-20',10,6,Wales,Jeux rapide,1710435984.1855776,1710435992.7226448,10m1,6,40m4,9,Perte,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+Wales - France,0'-20',10,6,France,Coup de pied,1710436000.5857198,1710436030.968346,40m1,4,22m3,10,Perte,Dégagement,5,0,2,1,0,0,0,0,0,1
+Wales - France,0'-20',10,6,France,Touche,1710436034.8756526,1710436057.8916473,40m2,5,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,0'-20',10,6,Wales,Touche +,1710436063.4957936,1710436079.6089125,40m3,8,10m2,7,Faute -,Passe,5,1,0,0,0,0,0,0,0,0
+Wales - France,0'-20',10,6,France,Turnover,1710436092.4969947,1710436107.5404687,10m1,6,40m4,9,Touche,Jeu au pied,4,0,0,0,0,1,0,0,0,0
+Wales - France,0'-20',10,6,Wales,Touche,1710436117.6355968,1710436134.4710076,40m1,4,22m2,3,Touche,Dégagement,3,1,0,0,0,0,0,0,0,1
+Wales - France,0'-20',10,6,France,Touche,1710436146.091782,1710436162.3205585,22m3,10,,0,Supprimer,Ruck,0,1,0,0,0,0,1,0,0,0
+Wales - France,20'-40',10,6,Wales,Mêlée,1710436189.934818,1710436198.1388688,22m2,3,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Wales - France,20'-40',10,6,France,Coup de pied,1710436209.5878515,1710436269.5821955,10m2,7,En-but,13,Essai,Passe,14,2,5,0,0,0,0,1,0,0
+Wales - France,20'-40',10,13,France,Coup de pied,1710436297.0998554,1710436332.7155294,40m1,4,10m2,7,Touche,Dégagement,1,2,0,1,0,0,0,0,0,1
+Wales - France,20'-40',10,13,Wales,Touche,1710436354.6965303,1710436391.7190006,10m1,6,En-but,13,Essai,Passe,13,2,2,0,0,0,0,0,0,0
+Wales - France,20'-40',17,13,Wales,Coup de pied,1710436409.7165172,1710436449.1481757,22m2,3,40m3,8,Perte,Dégagement,1,1,1,0,0,0,0,0,0,1
+Wales - France,20'-40',17,13,France,Coup de pied,1710436453.59274,1710436500.5600698,40m2,5,22m4,11,Faute +,Jeu au pied,11,3,2,0,1,1,0,0,0,0
+Wales - France,20'-40',17,13,France,Mêlée,1710436524.6842155,1710436560.1382573,22m4,11,En-but,13,Essai,Départ ruck,2,0,1,0,0,0,0,0,1,0
+Wales - France,20'-40',17,20,France,Coup de pied,1710436595.1547208,1710436653.1138117,22m2,3,10m2,7,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+Wales - France,20'-40',17,20,Wales,Touche,1710436660.828682,1710436681.3649294,10m1,6,10m2,7,Touche,Jeu au pied,4,0,1,0,0,1,0,0,0,0
+Wales - France,20'-40',17,20,France,Touche,1710436695.0473697,1710436742.7612264,10m1,6,22m4,11,Touche,Offload +,5,1,2,0,2,2,0,0,0,0
+Wales - France,20'-40',17,20,Wales,Touche,1710436764.3269804,1710436792.6046832,22m4,11,10m1,6,Perte,Dégagement,2,1,1,0,0,0,1,0,0,1
+Wales - France,20'-40',17,20,France,Coup de pied,1710436798.7260234,1710436811.7584767,10m2,7,22m4,11,Touche,Dégagement,1,0,1,0,0,0,0,0,0,1
+Wales - France,20'-40',17,20,Wales,Touche,1710436818.1577563,1710436831.6282158,22m1,2,40m1,4,Faute -,Passe,3,0,0,0,0,0,0,0,0,0
+Wales - France,20'-40',17,20,France,Mêlée,1710436860.0678005,1710436875.1985033,40m4,9,40m4,9,Perte,Ruck,3,1,0,1,0,0,0,0,0,0
+Wales - France,20'-40',17,20,Wales,Turnover,1710436881.7742345,1710436895.7154722,40m1,4,10m1,6,Faute -,Passe,3,1,1,0,0,0,0,0,0,0
+Wales - France,20'-40',17,20,France,Turnover,1710436907.3966331,1710436955.4095438,10m2,7,22m3,10,Perte,Jeu au pied,6,4,0,1,0,2,0,0,0,0
+Wales - France,20'-40',17,20,France,Touche,1710436960.5650373,1710437008.922705,40m4,9,40m4,9,Faute -,Ruck +,6,2,2,0,0,0,0,0,0,0
+Wales - France,20'-40',17,20,Wales,Touche,1710437017.6777215,1710437028.1944485,10m2,7,,0,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+Wales - France,20'-40',17,20,France,Mêlée,1710437048.9798067,1710437066.9607828,10m1,6,40m3,8,Faute -,Passe,4,0,0,0,1,0,0,0,1,0
+Wales - France,40'-60',17,20,Wales,Mêlée,1710437103.4692924,1710437184.592677,40m3,8,En-but,13,Essai,Passe,17,5,5,0,2,0,0,0,2,0
+Wales - France,40'-60',24,20,France,Coup de pied,1710437220.180009,1710437279.8102446,40m2,5,22m3,10,Faute -,Passe,7,1,7,0,0,0,0,0,3,0
+Wales - France,40'-60',24,20,France,Coup de pied,1710437301.3508692,1710437308.2146204,10m1,6,10m2,7,Faute -,Passe,2,0,0,0,0,0,0,0,0,0
+Wales - France,40'-60',24,20,Wales,Mêlée,1710437319.2656004,1710437330.4941168,10m1,6,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,40'-60',24,20,Wales,Mêlée,1710437332.5384953,1710437362.6924598,10m1,6,40m3,8,Touche,Jeu au pied,3,1,0,0,0,1,0,0,0,0
+Wales - France,40'-60',24,20,France,Touche,1710437368.7137086,1710437387.7992475,40m2,5,,0,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+Wales - France,40'-60',24,20,France,Touche,1710437399.7818642,1710437445.5660758,10m1,6,40m4,9,Faute +,Passe,7,1,1,0,0,1,0,0,0,0
+Wales - France,40'-60',24,20,France,Mêlée,1710437453.4784143,1710437571.174252,40m4,9,22m4,11,Faute +,Offload,13,7,5,1,0,0,0,0,3,0
+Wales - France,40'-60',24,20,France,Mêlée,1710437576.165546,1710437620.9745865,22m4,11,22m4,11,Faute +,Départ ruck,0,0,2,0,0,0,0,0,3,0
+Wales - France,40'-60',24,20,France,Mêlée,1710437680.587773,1710437690.4939218,22m4,11,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,40'-60',24,20,France,Mêlée,1710437692.3848817,1710437694.830877,22m4,11,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,40'-60',24,20,France,,1710437702.9899194,1710437715.6030724,22m4,11,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,40'-60',24,20,France,Coup de pied,1710437718.4717321,1710437768.3638709,10m1,6,22m3,10,Faute +,Ruck +,9,1,4,0,0,0,0,0,0,0
+Wales - France,40'-60',24,23,Wales,Coup de pied,1710437809.2321465,1710437845.9713762,40m2,5,10m2,7,Supprimer,Ruck +,8,2,3,0,0,0,0,0,0,0
+Wales - France,40'-60',24,23,Wales,Coup de pied,1710437873.8307896,1710437913.074067,40m2,5,10m2,7,Faute -,Offload +,8,2,2,0,1,0,0,0,0,0
+Wales - France,60'-80',24,23,Wales,,0,1710437961.4130206,,0,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,60'-80',24,23,Wales,Coup de pied,1710437972.656115,1710438017.4748719,40m2,5,10m2,7,Faute -,Offload +,8,2,2,0,1,0,0,0,0,0
+Wales - France,60'-80',24,23,France,Mêlée,1710438021.018201,1710438123.229309,10m1,6,En-but,13,Essai,Passe,10,4,4,0,1,0,0,0,2,0
+Wales - France,60'-80',24,30,France,Coup de pied,1710438149.2376103,1710438158.1595197,22m1,2,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - France,60'-80',24,30,Wales,Jeux rapide,1710438171.7310407,1710438223.1327899,40m2,5,10m1,6,Touche,Jeu au pied,7,4,1,0,0,1,0,0,0,0
+Wales - France,60'-80',24,30,France,Touche,1710438232.8351982,1710438281.7844536,10m1,6,40m4,9,Perte,Ruck +,6,0,5,0,0,0,1,0,1,0
+Wales - France,60'-80',24,30,Wales,Turnover,1710438291.6097717,1710438331.5652363,40m1,4,22m1,2,Perte,Jeu au pied,5,3,0,0,0,1,0,0,0,0
+Wales - France,60'-80',24,30,France,Turnover,1710438338.3942006,1710438349.6023502,22m3,10,En-but,13,Essai,,0,0,0,0,0,0,0,0,0,0
+Wales - France,60'-80',24,37,France,Coup de pied,1710438377.58818,1710438402.8900313,40m2,5,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Wales - France,60'-80',24,37,Wales,Coup de pied,1710438417.943071,1710438516.6047661,40m1,4,22m2,3,Faute -,Ruck,21,8,3,0,0,0,0,0,0,0
+Wales - France,60'-80',24,40,France,Coup de pied,1710438541.6029017,1710438552.2080722,40m1,4,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Wales - France,60'-80',24,40,Wales,Coup de pied,1710438568.4446673,1710438605.3481612,40m1,4,10m1,6,Faute +,Ruck,5,2,3,0,0,1,0,0,0,0
+Wales - France,60'-80',24,40,Wales,Jeux rapide,1710438612.8435423,1710438627.1568837,10m1,6,22m3,10,Faute -,Offload +,0,0,0,0,2,0,0,0,0,0
+Wales - France,60'-80',24,40,Wales,Touche,1710438665.7137282,1710438756.9865317,10m1,6,40m2,5,Perte,Ruck,21,7,2,1,0,0,0,0,0,0
+Wales - France,60'-80',24,40,France,Turnover,1710438768.3142188,1710438780.8441887,40m3,8,22m4,11,Touche,Offload +,2,0,0,0,1,0,0,0,0,0
+Wales - France,60'-80',24,40,France,Mêlée,1710438786.7206287,1710438827.658474,22m4,11,En-but,13,Essai,Offload +,2,0,0,0,1,0,0,0,0,0
+Wales - France,60'-80',24,45,France,Touche,1710438833.480211,1710438853.0470302,,0,,0,Touche,,0,0,0,0,0,0,0,0,0,0

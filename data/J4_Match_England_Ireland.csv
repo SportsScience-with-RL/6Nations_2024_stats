@@ -1,0 +1,70 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+England - Ireland,0'-20',0,0,England,Coup de pied,1710273684.269683,1710273734.0864732,22m1,2,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+England - Ireland,0'-20',0,0,Ireland,Touche,1710273741.9062872,1710273786.4562569,10m2,7,40m4,9,Faute +,Ruck +,6,2,4,0,1,0,0,0,2,0
+England - Ireland,0'-20',0,3,Ireland,Coup de pied,1710273812.5647686,1710273845.4082437,22m2,3,10m2,7,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+England - Ireland,0'-20',0,3,England,Coup de pied,1710273851.4961462,1710273867.402027,10m1,6,En-but,13,Essai,Passe,5,0,1,0,0,0,0,0,0,0
+England - Ireland,0'-20',5,3,England,Coup de pied,1710273883.0153716,1710273928.8772132,40m1,4,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+England - Ireland,0'-20',5,3,Ireland,Turnover,1710273934.8369172,1710273980.8543954,40m3,8,40m3,8,Faute -,Passe,12,4,1,0,1,0,0,0,1,0
+England - Ireland,0'-20',5,3,England,Touche,1710273996.1791615,1710274036.9560063,22m3,10,22m4,11,Faute -,Ruck +,5,0,2,0,0,0,0,0,0,0
+England - Ireland,0'-20',5,3,England,Touche +,1710274041.974872,1710274107.060967,10m2,7,22m4,11,Perte,Jeu au pied,15,2,4,0,0,1,0,0,0,0
+England - Ireland,0'-20',5,3,England,Touche,1710274113.5455172,1710274165.6563451,22m4,11,22m4,11,Faute -,Passe,3,3,1,0,0,0,0,0,0,0
+England - Ireland,0'-20',5,3,Ireland,Touche +,1710274202.1337771,1710274223.4709313,40m2,5,22m3,10,Perte,Dégagement,4,1,0,0,0,0,0,0,0,1
+England - Ireland,0'-20',5,3,Ireland,Coup de pied,1710274244.7722516,1710274287.5366485,10m1,6,40m4,9,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+England - Ireland,0'-20',5,3,Ireland,Coup de pied,1710274292.9755275,1710274339.644335,40m4,9,40m1,4,Supprimer,Passe,7,1,4,0,1,0,0,0,0,0
+England - Ireland,0'-20',5,3,England,Coup de pied,1710274379.6142886,1710274429.9362316,40m1,4,40m4,9,Faute +,Passe,8,1,4,0,1,0,0,0,0,0
+England - Ireland,0'-20',8,3,Ireland,Coup de pied,1710274472.1705315,1710274489.193818,10m1,6,10m1,6,Faute +,Ruck,2,2,0,0,0,0,0,0,0,0
+England - Ireland,0'-20',8,3,Ireland,Touche,1710274494.5023048,1710274533.6484642,22m3,10,22m3,10,Faute +,Ruck,3,1,2,0,0,0,1,0,1,0
+England - Ireland,20'-40',8,6,Ireland,Coup de pied,1710274554.9886537,1710274563.8868155,22m2,3,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+England - Ireland,20'-40',8,6,England,Touche,1710274570.2941453,1710274661.8142629,40m4,9,40m4,9,Faute +,Départ ruck,12,4,4,1,0,1,0,0,1,0
+England - Ireland,20'-40',8,6,England,Touche,1710274665.488425,1710274687.3727431,22m4,11,22m4,11,Perte,Ruck,1,1,1,0,0,0,0,0,0,0
+England - Ireland,20'-40',8,6,Ireland,Turnover,1710274695.954923,1710274709.4214523,22m1,2,40m2,5,Perte,Dégagement,2,0,1,0,0,0,0,0,0,1
+England - Ireland,20'-40',8,6,England,Coup de pied,1710274717.2085006,1710274760.0354202,40m3,8,22m4,11,Faute -,Jeu au pied,11,4,2,0,1,1,0,0,0,0
+England - Ireland,20'-40',8,6,Ireland,Mêlée,1710274824.8440378,1710274860.0723321,22m1,2,10m1,6,Touche,Dégagement,1,0,1,0,0,0,0,0,0,1
+England - Ireland,20'-40',8,6,England,Touche,1710274867.3568387,1710274898.923133,10m2,7,10m2,7,Faute -,Maul,5,1,0,0,0,0,1,0,0,0
+England - Ireland,20'-40',8,6,Ireland,Mêlée,1710274906.6004102,1710274938.8363116,10m1,6,22m3,10,Touche,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+England - Ireland,20'-40',8,6,England,Touche,1710274950.8007503,1710274996.7968297,10m2,7,40m3,8,Faute +,Jeu au pied,5,0,3,1,0,1,0,0,1,0
+England - Ireland,20'-40',8,6,Ireland,Coup de pied,1710275024.2694771,1710275042.6455503,40m2,5,40m4,9,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+England - Ireland,20'-40',8,6,England,Touche,1710275063.5254662,1710275090.661778,10m1,6,40m3,8,Perte,Jeu au pied,2,1,0,0,0,1,0,0,0,0
+England - Ireland,20'-40',8,6,Ireland,Coup de pied,1710275099.2981339,1710275120.2111228,40m2,5,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+England - Ireland,20'-40',8,6,England,Coup de pied,1710275125.001129,1710275141.8515892,10m1,6,10m1,6,Faute -,Ruck,3,1,1,0,0,0,0,0,0,0
+England - Ireland,20'-40',8,9,Ireland,Coup de pied,1710275161.19819,1710275201.36013,22m2,3,40m2,5,Touche,Dégagement,3,2,0,0,0,0,0,0,0,1
+England - Ireland,20'-40',8,9,England,Touche,1710275223.0036209,1710275244.6757336,40m3,8,40m3,8,Faute -,Passe,4,0,0,0,0,0,1,0,0,0
+England - Ireland,20'-40',8,9,Ireland,Mêlée,1710275267.9047813,1710275282.7712727,40m2,5,40m4,9,Touche,Dégagement,2,0,0,0,0,0,0,0,0,1
+England - Ireland,20'-40',8,9,Ireland,Touche,1710275293.3783252,1710275338.9228415,40m4,9,22m3,10,Faute +,Passe,8,1,3,1,0,0,0,0,0,0
+England - Ireland,40'-60',8,12,Ireland,Coup de pied,1710275464.8365834,1710275521.7911947,22m2,3,,0,Supprimer,Passe,1,1,0,0,0,0,0,0,0,0
+England - Ireland,40'-60',8,12,England,Mêlée,1710275595.245772,1710275634.9177547,40m4,9,22m3,10,Faute -,Ruck +,5,0,2,0,0,0,0,0,0,0
+England - Ireland,40'-60',8,12,Ireland,Touche,1710275644.9710243,1710275691.4549692,10m1,6,En-but,13,Essai,Passe,7,0,2,0,0,1,1,0,0,0
+England - Ireland,40'-60',8,17,Ireland,Coup de pied,1710275722.4228835,1710275760.6864889,22m1,2,40m2,5,Touche,Dégagement,2,2,1,0,1,0,0,0,1,1
+England - Ireland,40'-60',8,17,England,Touche,1710275769.5266833,1710275790.6619291,40m3,8,22m3,10,Perte,Passe,6,0,1,0,0,0,0,0,0,0
+England - Ireland,40'-60',8,17,Ireland,Turnover,1710275808.0178106,1710275840.7710376,22m2,3,10m1,6,Perte,Dégagement,1,2,0,1,0,0,0,0,0,1
+England - Ireland,40'-60',8,17,England,Coup de pied,1710275846.4028373,1710275869.7456748,10m2,7,En-but,13,Essai,Passe,7,0,1,0,2,0,0,0,0,0
+England - Ireland,40'-60',13,17,Ireland,Turnover,1710275905.9718814,1710275925.675467,40m4,9,40m4,9,Faute +,Ruck,3,2,0,0,0,0,0,0,0,0
+England - Ireland,40'-60',13,17,Ireland,Coup de pied,1710275929.772892,1710275980.090228,10m1,6,40m3,8,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+England - Ireland,40'-60',13,17,England,Coup de pied,1710275986.0104985,1710276012.2002394,40m2,5,10m2,7,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+England - Ireland,40'-60',13,17,Ireland,Coup de pied,1710276021.5939848,1710276035.1867661,10m1,6,10m1,6,Faute +,Ruck,4,2,0,0,0,0,0,0,0,0
+England - Ireland,40'-60',13,17,Ireland,Touche,1710276043.815676,1710276101.704378,40m4,9,22m4,11,Perte,Ruck +,3,3,0,0,0,1,0,0,0,0
+England - Ireland,40'-60',13,17,England,Coup de pied,1710276108.7012281,1710276151.8095777,22m1,2,22m2,3,Touche,Dégagement,3,2,1,0,0,0,0,0,0,1
+England - Ireland,40'-60',13,17,Ireland,Touche,1710276160.8150718,1710276176.2669692,22m3,10,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+England - Ireland,40'-60',13,17,Ireland,Touche,1710276178.3880358,1710276191.1512241,22m3,10,22m3,10,Faute -,Passe,1,0,0,0,0,0,1,0,0,0
+England - Ireland,40'-60',13,17,England,Turnover,1710276196.7245595,1710276208.5295784,22m2,3,,0,Supprimer,Dégagement,1,1,0,0,0,0,0,0,0,1
+England - Ireland,40'-60',13,17,Ireland,Touche,1710276221.2096398,1710276227.7038586,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+England - Ireland,40'-60',13,17,England,Touche +,1710276233.724231,1710276248.3500006,10m1,6,40m4,9,Faute +,Ruck +,2,0,1,0,0,0,0,0,0,0
+England - Ireland,40'-60',13,17,England,Touche,1710276255.2150023,1710276360.5622985,22m4,11,En-but,13,Essai,Passe,9,3,5,1,0,0,1,0,2,0
+England - Ireland,60'-80',20,17,England,Coup de pied,1710276389.4063685,1710276405.772485,22m2,3,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+England - Ireland,60'-80',20,17,Ireland,Touche,1710276422.485703,1710276442.137286,10m2,7,,0,Supprimer,Ruck,1,1,0,0,0,0,1,0,0,0
+England - Ireland,60'-80',20,17,Ireland,Touche,1710276444.9302905,1710276500.007641,22m3,10,22m3,10,Faute -,Passe,6,3,2,0,0,0,1,0,0,0
+England - Ireland,60'-80',20,17,Ireland,Coup de pied,1710276504.9804099,1710276571.1753416,10m1,6,10m2,7,Faute -,Offload,7,2,4,1,0,0,0,0,0,0
+England - Ireland,60'-80',20,17,England,Mêlée,1710276639.7435267,1710276669.808888,40m2,5,10m1,6,Perte,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+England - Ireland,60'-80',20,17,Ireland,Coup de pied,1710276674.3765378,1710276709.1512709,10m2,7,40m3,8,Faute -,Ruck,8,2,2,1,0,0,0,0,0,0
+England - Ireland,60'-80',20,17,England,Touche,1710276714.0089521,1710276760.3419507,10m2,7,22m3,10,Perte,Jeu au pied,1,1,0,0,0,1,1,0,0,0
+England - Ireland,60'-80',20,17,England,Touche,1710276764.9216182,1710276809.842284,10m1,6,40m3,8,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+England - Ireland,60'-80',20,17,Ireland,Coup de pied,1710276817.284214,1710276855.0020168,40m2,5,10m2,7,Perte,Jeu au pied,1,3,0,0,0,2,0,0,0,0
+England - Ireland,60'-80',20,17,England,Coup de pied,1710276863.0234146,1710276869.7136405,10m1,6,10m2,7,Faute -,Ruck +,1,0,1,0,0,0,0,0,0,0
+England - Ireland,60'-80',20,17,Ireland,Touche,1710276887.079231,1710276926.9828796,22m4,11,En-but,13,Essai,Passe,7,2,0,0,0,0,1,0,0,0
+England - Ireland,60'-80',20,22,England,Coup de pied,1710276966.5097666,1710276987.6697683,10m2,7,10m1,6,Faute +,Ruck +,3,1,1,1,0,0,0,0,0,0
+England - Ireland,60'-80',20,22,England,Coup de pied,1710276992.4443302,1710277066.5749936,40m2,5,22m3,10,Perte,Jeu au pied,11,2,3,0,1,1,0,0,0,0
+England - Ireland,60'-80',20,22,Ireland,Turnover,1710277072.5095263,1710277097.1128318,22m2,3,10m2,7,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+England - Ireland,60'-80',20,22,England,Coup de pied,1710277103.4082053,1710277123.9763434,10m1,6,22m3,10,Touche,Offload +,4,0,1,0,1,0,0,0,0,0
+England - Ireland,60'-80',20,22,Ireland,Touche,1710277135.14718,1710277175.7677588,22m2,3,40m2,5,Touche,Jeu au pied,1,1,0,0,0,1,1,0,0,0
+England - Ireland,60'-80',20,22,England,Touche,1710277183.845143,1710277272.39849,40m3,8,,0,Drop +,Passe,14,4,4,0,0,0,0,0,0,0
+England - Ireland,60'-80',23,22,England,,1710277281.1332312,1710277292.584356,10m2,7,10m2,7,Perte,,0,0,0,0,0,0,0,0,0,0

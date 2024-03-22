@@ -1,0 +1,75 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+France - Italia,0'-20',0,0,Italia,Coup de pied,1709235061.655913,1709235086.250774,22m1,2,,0,Supprimer,Jeu au pied,0,0,1,0,0,1,0,0,0,0
+France - Italia,0'-20',0,0,France,Coup de pied,1709235096.189495,1709235120.5981984,40m3,8,10m1,6,Faute -,Ruck,3,2,0,0,0,0,0,0,0,0
+France - Italia,0'-20',0,0,Italia,Touche,1709235130.9300215,1709235171.580152,22m3,10,40m4,9,Faute -,Ruck,6,3,1,0,0,0,1,0,0,0
+France - Italia,0'-20',0,0,France,Touche,1709235179.1868114,1709235209.2938824,10m2,7,10m2,7,Faute +,Jeu au pied,2,0,0,0,0,1,1,0,0,0
+France - Italia,0'-20',0,0,France,Touche,1709235241.738466,1709235269.5337079,22m3,10,22m3,10,Faute +,Ruck,2,2,0,0,0,0,0,0,0,0
+France - Italia,0'-20',0,0,France,Mêlée,1709235272.830204,1709235314.0115151,22m3,10,En-but,13,Supprimer,Ruck +,3,1,4,0,0,0,0,0,3,0
+France - Italia,0'-20',0,0,France,Mêlée,1709235342.0940025,1709235387.0179737,22m3,10,En-but,13,Essai,Départ ruck,3,1,3,0,1,0,0,0,4,0
+France - Italia,0'-20',7,0,France,Coup de pied,1709235427.3706882,1709235438.7320783,22m2,3,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+France - Italia,0'-20',7,0,France,Coup de pied,1709235440.5430121,1709235473.6756372,40m1,4,40m4,9,Perte,Dégagement,3,2,0,0,0,0,0,0,0,1
+France - Italia,0'-20',7,0,Italia,Coup de pied,1709235482.1895208,1709235519.6830108,40m1,4,10m2,7,Perte,Ruck,4,2,2,0,0,0,0,0,0,0
+France - Italia,0'-20',7,0,France,Turnover,1709235525.5573719,1709235544.071967,10m1,6,40m3,8,Perte,Jeu au pied,3,0,0,0,0,1,0,0,0,0
+France - Italia,0'-20',7,0,Italia,Coup de pied,1709235557.6145606,1709235604.8491244,40m2,5,10m2,7,Perte,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+France - Italia,0'-20',7,0,France,Coup de pied,1709235613.4389622,1709235623.338442,10m1,6,10m1,6,Perte,Ruck,0,1,0,1,0,0,0,0,0,0
+France - Italia,0'-20',7,0,Italia,Turnover,1709235627.3994122,1709235654.3179102,10m2,7,En-but2,12,Perte,Dégagement,5,3,0,0,0,0,0,0,0,1
+France - Italia,0'-20',7,0,Italia,Coup de pied,1709235665.3570094,1709235689.198642,10m2,7,40m4,9,Perte,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+France - Italia,0'-20',7,0,France,Coup de pied,1709235693.5815136,1709235726.9408987,40m1,4,22m3,10,Faute -,Passe,7,1,2,1,0,0,0,0,1,0
+France - Italia,0'-20',10,0,Italia,Touche,1709235776.5489337,1709235831.191847,10m2,7,40m4,9,Faute +,Ruck,6,2,2,0,2,0,1,0,0,0
+France - Italia,0'-20',10,0,Italia,Touche,1709235845.0323093,1709235875.3878536,22m4,11,22m4,11,Faute -,Ruck +,3,1,1,0,0,0,0,0,1,0
+France - Italia,0'-20',10,0,France,Touche,1709235904.7879794,1709235931.4334424,40m2,5,22m3,10,Supprimer,Dégagement,3,0,1,0,0,0,0,0,0,1
+France - Italia,0'-20',10,0,France,Touche,1709235958.7015445,1709235978.622931,40m2,5,22m3,10,Perte,Dégagement,3,0,1,0,0,0,0,0,0,1
+France - Italia,20'-40',10,0,France,Touche,1709235999.301519,1709236087.6488824,22m4,11,22m4,11,Faute +,Passe,7,6,1,1,0,0,1,0,2,0
+France - Italia,20'-40',10,0,France,Mêlée,1709236093.330785,1709236176.4561818,22m4,11,22m4,11,Touche,Jeu au pied,8,5,2,0,0,1,0,0,0,0
+France - Italia,20'-40',10,0,Italia,Touche,1709236194.8703337,1709236203.2048035,22m1,2,40m1,4,Faute -,Offload +,1,0,0,0,1,0,0,0,0,0
+France - Italia,20'-40',10,0,France,Turnover,1709236229.7299993,1709236265.4708488,40m3,8,22m3,10,Perte,Jeu au pied,7,1,1,1,1,1,0,0,0,0
+France - Italia,20'-40',10,0,Italia,Coup de pied,1709236284.8160589,1709236295.7260702,22m1,2,22m2,3,Perte,Jeu au pied,1,0,0,0,1,1,0,0,0,0
+France - Italia,20'-40',10,0,Italia,Mêlée,1709236298.8530698,1709236350.840439,22m1,2,22m1,2,Perte,Passe,2,0,1,0,0,0,0,0,0,0
+France - Italia,20'-40',10,0,France,Turnover,1709236358.3435452,1709236437.4976158,22m4,11,22m4,11,Faute -,Passe,11,4,6,0,0,0,0,0,4,0
+France - Italia,20'-40',10,0,Italia,Jeux rapide,1709236468.1272018,1709236494.1803112,40m2,5,,0,Supprimer,Passe,2,0,0,0,0,0,0,0,0,0
+France - Italia,20'-40',10,0,France,Jeux rapide,1709236520.1410124,1709236549.5611243,40m2,5,40m4,9,Touche,Jeu au pied,7,1,1,0,0,1,0,0,0,0
+France - Italia,20'-40',10,0,Italia,Touche,1709236556.9884362,1709236601.3279278,40m1,4,40m3,8,Perte,Jeu au pied,1,1,2,0,0,1,0,0,1,0
+France - Italia,20'-40',10,0,France,Coup de pied,1709236606.506374,1709236621.1970952,40m2,5,10m1,6,Faute +,Ruck,2,1,1,0,0,0,0,0,0,0
+France - Italia,20'-40',10,0,France,Touche,1709236626.4034667,1709236671.0298414,40m4,9,22m3,10,Perte,Ruck +,6,0,2,0,0,0,0,0,0,0
+France - Italia,20'-40',10,0,Italia,Turnover,1709236677.8514786,1709236698.7019815,22m2,3,40m1,4,Touche,Dégagement,2,1,0,0,0,0,0,0,0,1
+France - Italia,20'-40',10,0,France,Touche,1709236721.8390708,1709236811.4816139,40m4,9,22m4,11,Faute +,Départ ruck,14,7,4,0,1,0,0,0,3,0
+France - Italia,20'-40',10,0,France,Touche,1709236853.711668,1709236940.3958495,22m4,11,22m4,11,Faute -,Passe,8,2,3,1,0,0,1,0,1,0
+France - Italia,20'-40',10,0,Italia,Touche,1709237024.19607,1709237104.975876,40m3,8,10m2,7,Faute +,Passe,22,4,5,1,0,0,0,0,0,0
+France - Italia,40'-60',10,3,France,Coup de pied,1709237193.4985216,1709237226.2403765,22m2,3,10m2,7,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+France - Italia,40'-60',10,3,Italia,Coup de pied,1709237234.7418408,1709237237.0033183,10m1,6,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+France - Italia,40'-60',10,3,Italia,Jeux rapide,1709237241.3975346,1709237266.3327627,10m1,6,22m4,11,Touche,Jeu au pied,4,1,1,0,0,1,0,0,0,0
+France - Italia,40'-60',10,3,France,Touche,1709237272.6392078,1709237314.1085944,10m1,6,22m3,10,Perte,Jeu au pied,1,0,0,0,0,1,1,0,0,0
+France - Italia,40'-60',10,3,France,Coup de pied,1709237319.4082458,1709237343.179638,40m2,5,,0,Supprimer,Offload,0,0,0,1,1,0,0,0,0,0
+France - Italia,40'-60',10,3,France,Coup de pied,1709237345.107673,1709237376.6424778,40m2,5,40m4,9,Faute +,Ruck +,4,1,2,1,1,0,0,0,0,0
+France - Italia,40'-60',13,3,Italia,Touche,1709237415.8369377,1709237426.5499594,10m2,7,40m3,8,Faute -,Passe,2,0,1,0,0,0,0,0,0,0
+France - Italia,40'-60',13,3,Italia,Touche +,1709237445.85255,1709237519.6248226,40m3,8,En-but2,12,Touche,Jeu au pied,11,5,3,0,1,2,0,0,1,0
+France - Italia,40'-60',13,3,Italia,Coup de pied,1709237524.1916103,1709237565.5003047,10m1,6,22m3,10,Touche,Dégagement,3,0,1,0,0,0,0,0,0,1
+France - Italia,40'-60',13,3,France,Touche,1709237583.8814118,1709237602.2245002,22m2,3,40m1,4,Touche,Dégagement,2,0,1,0,0,0,0,0,0,1
+France - Italia,40'-60',13,3,Italia,Touche,1709237625.0220978,1709237651.7329392,40m4,9,40m4,9,Faute -,Ruck,1,2,0,0,0,0,1,0,1,0
+France - Italia,40'-60',13,3,France,Touche,1709237658.6347656,1709237696.3912067,10m2,7,40m4,9,Faute -,Ruck,3,1,2,0,0,0,0,0,1,0
+France - Italia,40'-60',13,3,Italia,Turnover,1709237706.258493,1709237736.052604,40m1,4,22m2,3,Faute +,Ruck,2,3,0,0,0,0,0,0,0,0
+France - Italia,40'-60',13,3,France,Touche,1709237785.8084342,1709237828.0825117,10m1,6,40m4,9,Faute -,Jeu au pied,4,1,3,1,0,1,0,0,1,0
+France - Italia,40'-60',13,3,Italia,Turnover,1709237841.3514068,1709237869.589082,40m1,4,10m2,7,Perte,Dégagement,1,2,0,0,0,0,0,0,0,1
+France - Italia,40'-60',13,3,France,Coup de pied,1709237873.5824442,1709237900.2027495,10m1,6,22m3,10,Faute -,Ruck,7,1,2,0,0,0,0,0,0,0
+France - Italia,40'-60',13,3,Italia,Touche,1709237916.931396,1709237948.9121163,10m1,6,22m3,10,Perte,Jeu au pied,7,0,3,0,0,1,0,0,0,0
+France - Italia,40'-60',13,3,Italia,Coup de pied,1709237952.4118729,1709237972.993504,22m2,3,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+France - Italia,40'-60',13,3,Italia,Touche,1709237976.1192708,1709238036.6746264,22m3,10,40m4,9,Faute +,Ruck,6,4,0,0,0,0,1,0,0,0
+France - Italia,60'-80',13,6,Italia,Coup de pied,1709238061.32401,1709238083.093347,22m2,3,40m1,4,Faute +,Ruck,1,1,1,0,0,0,0,0,0,0
+France - Italia,60'-80',13,6,Italia,Touche,1709238088.4854689,1709238128.0900886,10m2,7,40m4,9,Faute -,Ruck +,9,0,2,0,1,0,0,0,0,0
+France - Italia,60'-80',13,6,France,Mêlée,1709238146.8057723,1709238183.9867325,40m1,4,40m3,8,Perte,Jeu au pied,2,1,2,0,1,1,0,0,1,0
+France - Italia,60'-80',13,6,Italia,Coup de pied,1709238190.4321408,1709238260.747187,40m2,5,40m3,8,Faute +,Passe,21,3,5,0,1,0,0,0,1,0
+France - Italia,60'-80',13,6,France,Touche,1709238319.77949,1709238325.8490365,40m3,8,,0,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+France - Italia,60'-80',13,6,Italia,Mêlée,1709238383.1441252,1709238387.117076,22m2,3,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+France - Italia,60'-80',13,6,Italia,Mêlée,1709238390.2257135,1709238415.1177237,22m2,3,,0,Supprimer,Ruck +,4,0,1,0,1,0,0,0,0,0
+France - Italia,60'-80',13,6,Italia,Mêlée,1709238418.7859728,1709238427.8688476,22m2,3,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+France - Italia,60'-80',13,6,Italia,Mêlée,1709238434.3114417,1709238549.3588204,22m2,3,,0,Supprimer,Passe,17,1,7,1,2,0,0,0,1,0
+France - Italia,60'-80',13,6,Italia,Mêlée,1709238553.7609742,1709238631.6770096,22m2,3,En-but,13,Essai,Offload +,17,1,7,0,4,0,0,0,1,0
+France - Italia,60'-80',13,13,Italia,Coup de pied,1709238683.6908526,1709238728.187501,40m1,4,40m3,8,Perte,Jeu au pied,1,0,2,0,0,1,0,0,0,0
+France - Italia,60'-80',13,13,France,Coup de pied,1709238736.8930438,1709238794.7720926,40m2,5,40m4,9,Perte,Jeu au pied,9,5,1,0,0,2,0,0,0,0
+France - Italia,60'-80',13,13,France,Mêlée,1709238797.6701567,1709238832.4431672,40m4,9,40m4,9,Faute -,Passe,2,0,1,0,0,0,0,0,0,0
+France - Italia,60'-80',13,13,Italia,Turnover,1709238841.534167,1709238850.3373199,40m1,4,10m2,7,Perte,Dégagement,1,0,0,0,0,0,0,0,0,1
+France - Italia,60'-80',13,13,France,Coup de pied,1709238855.3047247,1709238875.1121073,10m1,6,10m2,7,Faute -,Passe,5,0,1,0,0,0,0,0,0,0
+France - Italia,60'-80',13,13,Italia,Mêlée,1709238899.8010821,1709238903.4476838,10m1,6,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+France - Italia,60'-80',13,13,France,Touche +,1709238926.8720093,1709239005.3606894,10m1,6,40m4,9,Perte,Ruck,17,5,3,1,0,0,0,0,0,0
+France - Italia,60'-80',13,13,Italia,Turnover,1709239013.2770057,1709239036.7348251,40m1,4,40m3,8,Touche,Dégagement,7,1,1,0,0,0,0,0,0,1
+France - Italia,60'-80',13,13,France,Touche,1709239053.644965,1709239135.8810093,40m2,5,40m1,4,Faute -,Ruck,18,6,2,0,0,0,1,0,1,0

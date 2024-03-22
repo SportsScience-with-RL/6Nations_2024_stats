@@ -1,0 +1,72 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+France - Ireland,0'-20',0,0,Ireland,Coup de pied,1707254138.7084632,1707254176.9747815,22m1,2,10m2,7,Supprimer,Dégagement,1,1,1,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,0,Ireland,Coup de pied,1707254206.2481823,1707254236.4233649,22m4,11,10m2,7,Supprimer,Dégagement,1,2,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,0,France,Coup de pied,1707254251.6108701,1707254267.5917463,22m1,2,10m1,6,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,0,Ireland,Touche,1707254292.4672763,1707254322.818923,10m2,7,10m2,7,Perte,Dégagement,5,1,1,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,0,France,Turnover,1707254346.8562183,1707254359.292655,10m1,6,40m4,9,Perte,Dégagement,2,1,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,0,France,Coup de pied,1707254386.5279024,1707254414.8163257,10m1,6,22m3,10,Touche,Passe,6,1,0,0,0,0,0,0,0,0
+France - Ireland,0'-20',0,0,Ireland,Touche,1707254435.8112962,1707254456.8077283,22m2,3,40m3,8,Perte,Dégagement,3,0,1,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,0,Ireland,Coup de pied,1707254461.4895713,1707254501.3800979,40m1,4,10m2,7,Perte,Jeu au pied,3,2,0,0,0,1,0,0,0,0
+France - Ireland,0'-20',0,0,France,Coup de pied,1707254509.2462025,1707254530.4788916,10m1,6,40m2,5,Perte,Passe,6,2,0,0,0,0,0,0,0,0
+France - Ireland,0'-20',0,0,Ireland,Turnover,1707254549.6521807,1707254581.7759426,40m3,8,40m3,8,Faute +,Ruck,5,4,1,0,0,0,0,0,1,0
+France - Ireland,0'-20',0,0,Ireland,Touche,1707254604.3405106,1707254664.1674163,22m4,11,22m4,11,Faute +,Passe,6,3,3,0,0,0,1,0,1,0
+France - Ireland,0'-20',0,3,Ireland,Coup de pied,1707254687.477078,1707254715.4678533,40m1,4,40m3,8,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,3,France,Coup de pied,1707254729.8053572,1707254727.5365276,40m2,5,40m4,9,Faute -,Ruck +,0,1,1,0,0,0,0,0,1,0
+France - Ireland,0'-20',0,3,Ireland,Touche,1707254794.6230438,1707254846.0686796,10m2,7,22m3,10,Perte,Jeu au pied,14,3,0,0,0,1,0,0,0,0
+France - Ireland,0'-20',0,3,France,Coup de pied,1707254871.0913582,1707254905.0091348,22m2,3,40m1,4,Touche,Dégagement,2,2,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,3,Ireland,Touche,1707254911.9332807,1707254954.094628,40m4,9,En-but2,12,Faute -,Jeu au pied,4,1,2,0,0,1,1,0,0,0
+France - Ireland,0'-20',0,3,Ireland,Touche,1707254983.0296419,1707254996.8422956,40m2,5,40m3,8,Perte,Dégagement,0,0,1,0,0,0,0,0,1,1
+France - Ireland,0'-20',0,3,France,Coup de pied,1707255015.1878905,1707255021.3761816,40m2,5,40m2,5,Faute +,Ruck,1,1,0,0,0,0,0,0,0,0
+France - Ireland,0'-20',0,3,France,Touche,1707255031.8648982,1707255076.9196942,10m2,7,22m3,10,Perte,Dégagement,2,2,0,0,0,0,1,0,0,1
+France - Ireland,0'-20',0,3,France,Touche,1707255092.7855244,1707255103.8195221,40m2,5,22m3,10,Perte,Dégagement,3,0,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,3,Ireland,Touche,1707255118.5144978,1707255143.3505764,40m3,8,En-but,11,Essai,Offload,7,0,1,1,0,0,0,0,0,0
+France - Ireland,0'-20',0,10,Ireland,Coup de pied,1707255169.965113,1707255191.3443334,22m2,3,40m3,8,Perte,Dégagement,4,1,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,10,Ireland,Coup de pied,1707255194.7096593,1707255229.4170885,40m1,4,40m4,9,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+France - Ireland,0'-20',0,10,France,Coup de pied,1707255236.0383976,1707255262.414462,40m1,4,10m2,7,Perte,Jeu au pied,0,0,0,1,0,1,0,0,0,0
+France - Ireland,0'-20',0,10,France,Touche,1707255284.2068129,1707255313.896034,40m1,4,40m2,5,Perte,Dégagement,0,0,0,0,0,0,1,0,0,1
+France - Ireland,0'-20',0,10,Ireland,Turnover,1707255322.7890236,1707255340.40731,40m4,9,40m4,9,Faute +,Passe,2,0,1,0,0,0,0,0,0,0
+France - Ireland,20'-40',0,10,Ireland,Mêlée,1707255379.4149904,1707255411.7137058,40m4,9,En-but2,12,Faute -,Ruck,2,1,1,0,0,0,0,0,0,0
+France - Ireland,20'-40',0,10,Ireland,Coup de pied,1707255420.6224585,1707255439.6770427,10m2,7,40m3,8,Faute +,Ruck +,1,0,1,0,0,0,0,0,0,0
+France - Ireland,20'-40',0,10,Ireland,Coup de pied,1707255447.089567,1707255477.086858,10m1,6,10m1,6,Faute -,Passe,1,0,1,0,0,0,0,0,0,0
+France - Ireland,20'-40',0,10,France,Mêlée,1707255497.875983,1707255512.8438728,10m2,7,10m2,7,Faute +,Ruck,1,1,0,1,0,0,0,0,0,0
+France - Ireland,20'-40',3,10,France,Coup de pied,1707255529.360359,1707255564.5482202,22m2,3,40m2,5,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+France - Ireland,20'-40',3,10,Ireland,Touche,1707255579.2117298,1707255646.4390118,40m3,8,En-but,11,Essai,Passe,16,4,5,0,0,0,0,0,0,0
+France - Ireland,20'-40',3,17,Ireland,Coup de pied,1707255656.538309,1707255695.658221,22m2,3,22m2,3,Faute +,Dégagement,3,1,1,0,0,0,0,0,0,1
+France - Ireland,20'-40',3,17,Ireland,Touche,1707255702.9511356,1707255741.651195,10m2,7,10m2,7,Touche,Dégagement,2,0,0,0,0,0,0,0,0,1
+France - Ireland,20'-40',3,17,France,Touche,1707255756.9335496,1707255799.2077982,10m1,6,10m2,7,Faute +,Ruck,8,2,4,0,0,0,0,0,2,0
+France - Ireland,20'-40',3,17,France,Touche,1707255805.4966633,1707255857.815967,40m4,9,22m3,10,Faute +,Ruck +,1,1,1,0,0,0,1,0,1,0
+France - Ireland,20'-40',3,17,Ireland,Touche +,1707255871.7301753,1707255889.6382413,22m1,2,40m2,5,Touche,Dégagement,1,1,0,0,0,0,0,0,0,1
+France - Ireland,20'-40',3,17,France,Touche,1707255930.9563394,1707255994.2572803,22m3,10,22m3,10,Faute +,Passe,11,3,5,1,0,0,0,0,2,0
+France - Ireland,20'-40',3,17,France,Touche,1707256003.3269172,1707256031.8252764,22m4,11,22m4,11,Faute +,Ruck,1,2,0,0,0,0,0,0,2,0
+France - Ireland,20'-40',3,17,France,Jeux rapide,1707256034.9425397,1707256063.2615585,22m4,11,En-but,11,Essai,Passe,3,2,1,0,0,0,0,0,1,0
+France - Ireland,40'-60',10,17,Ireland,Coup de pied,1707256094.3557935,1707256124.5787592,22m2,3,10m1,6,Touche,Dégagement,1,1,1,0,0,0,0,0,0,1
+France - Ireland,40'-60',10,17,France,Touche,1707256133.5256197,1707256146.5064135,10m2,7,10m2,7,Faute +,Maul,0,0,0,0,0,0,1,0,0,0
+France - Ireland,40'-60',10,17,France,Coup de pied,1707256165.35443,1707256217.0043912,10m1,6,10m2,7,Faute -,Ruck,6,2,4,0,0,0,0,0,0,0
+France - Ireland,40'-60',10,17,Ireland,Touche,1707256229.848703,1707256302.7551467,40m4,9,En-but,11,Essai,Passe,16,3,8,0,0,0,0,0,2,0
+France - Ireland,40'-60',10,24,Ireland,Coup de pied,1707256325.165125,1707256362.5677063,22m2,3,10m1,6,Touche,Dégagement,1,1,1,0,0,0,0,0,0,1
+France - Ireland,40'-60',10,24,France,Touche,1707256376.7477863,1707256448.5411897,10m2,7,40m3,8,Perte,Ruck +,7,3,4,1,0,1,0,0,2,0
+France - Ireland,40'-60',10,24,Ireland,Turnover,1707256455.4177792,1707256496.208042,40m2,5,10m2,7,Faute -,Jeu au pied,1,1,1,1,0,1,0,0,0,0
+France - Ireland,40'-60',10,24,France,Touche,1707256541.5166938,1707256574.9437857,22m3,10,22m3,10,Faute +,Passe,3,1,1,0,0,0,1,0,0,0
+France - Ireland,40'-60',10,24,France,Touche,1707256577.9417665,1707256621.277217,22m4,11,22m4,11,Essai,Ruck,0,2,2,0,0,0,1,0,3,0
+France - Ireland,40'-60',17,24,Ireland,Touche +,1707256693.44008,1707256722.5955298,10m2,7,10m1,6,Touche,Dégagement,5,2,0,0,0,0,0,0,0,1
+France - Ireland,40'-60',17,24,France,Touche,1707256735.9465766,1707256759.4963932,10m2,7,10m1,6,Faute -,Maul,5,0,0,0,0,0,1,0,0,0
+France - Ireland,40'-60',17,24,Ireland,Turnover,1707256913.2219906,1707257006.087209,22m3,10,22m4,11,Faute +,Ruck +,21,6,5,1,0,0,0,0,0,0
+France - Ireland,60'-80',17,24,Ireland,Touche,1707257018.868142,1707257035.737517,22m4,11,En-but,11,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Coup de pied,1707257055.5704625,1707257089.5448506,22m2,3,40m2,5,Perte,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+France - Ireland,60'-80',17,31,France,Coup de pied,1707257094.71044,1707257116.6420903,40m3,8,10m1,6,Faute -,Passe,3,2,0,0,0,0,0,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Mêlée,1707257128.2699468,1707257160.0457802,10m2,7,40m4,9,Perte,Ruck +,5,0,2,0,0,0,0,0,0,0
+France - Ireland,60'-80',17,31,France,Turnover,1707257169.1284149,1707257194.6342514,40m1,4,10m2,7,Perte,Dégagement,1,2,0,0,0,0,0,0,0,1
+France - Ireland,60'-80',17,31,Ireland,Coup de pied,1707257199.937266,1707257220.576721,10m1,6,10m2,7,Touche,Jeu au pied,4,0,2,0,0,1,0,0,0,0
+France - Ireland,60'-80',17,31,France,Touche,1707257235.3320596,1707257264.6126297,10m1,6,10m2,7,Faute -,Passe,5,1,1,0,0,1,1,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Mêlée,1707257285.4035778,1707257310.946151,10m1,6,22m3,10,Perte,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+France - Ireland,60'-80',17,31,France,Coup de pied,1707257322.213733,1707257375.9440277,22m2,3,22m3,10,Perte,Jeu au pied,11,2,2,0,0,1,0,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Coup de pied,1707257390.1250403,1707257437.3314183,22m2,3,40m2,5,Touche,Dégagement,2,2,1,0,0,0,0,0,0,1
+France - Ireland,60'-80',17,31,France,Touche,1707257460.7433515,1707257526.8649797,40m3,8,40m4,9,Faute -,Passe,11,4,6,0,0,0,0,0,1,0
+France - Ireland,60'-80',17,31,Ireland,Mêlée,1707257541.167652,1707257568.4444304,40m1,4,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Mêlée,1707257572.6490932,1707257580.4086432,40m1,4,22m3,10,Perte,Dégagement,2,0,0,0,0,0,0,0,0,1
+France - Ireland,60'-80',17,31,France,Coup de pied,1707257589.3516989,1707257621.6548939,22m2,3,40m3,8,Perte,Ruck,6,2,2,0,0,0,0,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Turnover,1707257630.5581658,1707257636.3618126,40m2,5,22m3,10,Touche,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Touche,1707257643.8937356,1707257682.6230621,22m3,10,22m4,11,Drop +,Jeu au pied,9,1,2,0,0,1,0,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Coup de pied,1707257689.207695,1707257751.3504248,10m1,6,22m4,11,Perte,Jeu au pied,10,2,3,0,0,1,0,0,0,0
+France - Ireland,60'-80',17,31,Ireland,Touche,1707257755.6071393,1707257776.109683,22m4,11,En-but,11,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+France - Ireland,60'-80',17,38,Ireland,Coup de pied,1707257798.0856535,1707257838.0194123,40m2,5,40m1,4,Faute -,Ruck,4,3,0,0,0,0,0,0,0,0

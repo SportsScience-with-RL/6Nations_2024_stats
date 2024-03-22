@@ -1,0 +1,68 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+England - Wales,0'-20',0,0,Wales,Coup de pied,1707791757.5804048,1707791787.2811687,22m2,3,10m1,6,Perte,Dégagement,1,2,0,0,0,0,0,0,0,1
+England - Wales,0'-20',0,0,England,Coup de pied,1707791792.018156,1707791848.7406,10m2,7,22m4,11,Perte,Jeu au pied,9,4,2,0,0,1,0,0,1,0
+England - Wales,0'-20',0,0,England,Touche,1707791862.4765725,1707791869.4335432,22m4,11,,0,Supprimer,Ruck,1,1,0,0,0,0,0,0,0,0
+England - Wales,0'-20',0,0,England,Touche,1707791883.1337054,1707791896.0674436,22m4,11,22m4,11,Faute -,Ruck,1,1,0,0,0,0,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Touche,1707791917.0834553,1707791936.8421335,40m2,5,40m1,4,Faute +,Jeu au pied,5,2,0,0,0,1,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Touche,1707791940.201356,1707791976.9786406,10m2,7,40m3,8,Perte,Jeu au pied,10,4,0,0,0,1,0,0,0,0
+England - Wales,0'-20',0,0,England,Coup de pied,1707791982.3778558,1707791991.3311844,40m2,5,22m3,10,Perte,Jeu au pied,1,0,0,0,1,1,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Coup de pied,1707791998.51969,1707792021.1613278,22m2,3,10m1,6,Perte,Dégagement,1,2,0,0,0,0,0,0,0,2
+England - Wales,0'-20',0,0,England,Coup de pied,1707792025.5883033,1707792034.3704479,10m2,7,22m4,11,Touche,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Touche,1707792047.65567,1707792071.6696632,22m1,2,40m1,4,Touche,Dégagement,1,0,1,0,0,0,1,0,0,1
+England - Wales,0'-20',0,0,England,Touche,1707792083.568472,1707792126.883146,40m4,9,22m4,11,Touche,Jeu au pied,5,2,2,0,1,1,0,0,2,0
+England - Wales,0'-20',0,0,England,Mêlée,1707792149.44746,1707792169.6472445,22m4,11,22m4,11,Faute -,Passe,2,0,0,0,0,0,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Turnover,1707792176.9018009,1707792220.3860903,22m1,2,40m2,5,Faute -,Jeu au pied,4,2,1,0,0,1,0,0,0,0
+England - Wales,0'-20',0,0,England,Turnover,1707792236.2944872,1707792255.188558,40m3,8,40m4,9,Touche,Jeu au pied,7,2,0,0,0,1,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Touche,1707792298.1345303,1707792318.525022,10m2,7,40m3,8,Touche,Jeu au pied,1,0,0,0,0,1,1,0,0,0
+England - Wales,0'-20',0,0,England,Touche,1707792324.8984447,1707792335.8861303,40m2,5,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Mêlée,1707792345.1353023,1707792374.6586096,40m3,8,,0,Supprimer,Ruck,1,1,0,0,0,0,0,0,0,0
+England - Wales,0'-20',0,0,Wales,Touche,1707792378.4547193,1707792390.066169,22m4,11,En-but,11,Essai,Maul,0,0,0,0,0,0,1,0,0,0
+England - Wales,0'-20',0,7,Wales,Coup de pied,1707792399.6250913,1707792448.8657866,22m2,3,22m1,2,Faute -,Ruck,4,3,0,1,0,0,0,0,0,0
+England - Wales,0'-20',0,7,England,Mêlée,1707792460.1565704,1707792474.5374212,22m4,11,En-but,11,Essai,Départ ruck,0,0,0,0,0,0,0,0,1,0
+England - Wales,20'-40',5,7,England,Coup de pied,1707792491.2987661,1707792528.4972782,40m1,4,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Coup de pied,1707792535.653017,1707792569.9511309,10m1,6,10m2,7,Faute +,Jeu au pied,5,3,1,0,0,1,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Touche,1707792582.0698926,1707792604.7869763,22m4,11,22m4,11,Faute -,Offload +,2,0,0,-1,1,0,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Coup de pied,1707792639.763544,1707792648.259876,10m1,6,22m2,3,Touche,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Touche,0,1707792679.2055647,40m2,5,10m1,6,Perte,Jeu au pied,4,1,0,0,0,1,0,0,0,0
+England - Wales,20'-40',5,7,England,Coup de pied,1707792780.1027133,1707792817.3525145,10m2,7,40m4,9,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Coup de pied,1707792822.7672439,1707792860.1251655,40m1,4,22m4,11,Perte,Dégagement,4,2,0,0,1,1,0,0,0,1
+England - Wales,20'-40',5,7,Wales,Touche,1707792864.1256542,1707793045.370605,40m4,9,40m4,9,Perte,Passe,20,18,6,0,0,0,1,0,8,0
+England - Wales,20'-40',5,7,England,Turnover,1707793056.0800476,1707793065.3469656,40m1,4,22m4,11,Perte,Dégagement,0,1,0,0,0,0,0,0,0,1
+England - Wales,20'-40',5,7,England,Touche,1707793073.2470362,1707793098.116212,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+England - Wales,20'-40',5,7,England,Touche,1707793101.6974158,1707793115.0931256,10m2,7,10m2,7,Faute -,Passe,4,0,0,0,0,0,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Mêlée,1707793123.4819937,1707793150.8983233,10m1,6,10m2,7,Faute -,Passe,6,1,1,0,0,0,0,0,0,0
+England - Wales,20'-40',5,7,Wales,,0,1707793155.461188,,0,10m2,7,Supprimer,,0,0,0,0,0,0,0,0,0,0
+England - Wales,20'-40',5,7,England,Turnover,1707793164.528537,1707793178.5768986,10m1,6,10m2,7,Perte,Dégagement,1,1,0,0,0,0,0,0,0,1
+England - Wales,20'-40',5,7,England,Touche,1707793205.0348492,1707793230.8324933,10m2,7,22m3,10,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Touche +,1707793248.7757995,1707793274.797888,40m2,5,40m3,8,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+England - Wales,20'-40',5,7,England,Coup de pied,1707793279.905801,1707793285.7124174,40m2,5,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+England - Wales,20'-40',5,7,Wales,Turnover,1707793293.9265585,1707793325.1582396,10m2,7,22m3,10,Perte,Dégagement,4,4,0,0,0,0,0,0,0,1
+England - Wales,20'-40',5,7,Wales,Coup de pied,1707793328.2924104,1707793373.2784314,10m1,6,En-but,11,Essai,Passe,9,1,2,0,1,0,0,0,0,0
+England - Wales,20'-40',5,14,Wales,Coup de pied,1707793384.2657375,1707793458.0624988,40m1,4,40m1,4,Touche,Passe,3,4,0,0,0,1,0,0,0,0
+England - Wales,40'-60',5,14,Wales,Coup de pied,1707793470.4204304,1707793507.465112,10m2,7,10m1,6,Faute -,Passe,3,1,1,0,0,0,0,0,0,0
+England - Wales,40'-60',5,14,England,Touche,1707793513.2685165,1707793575.1757011,22m3,10,22m4,11,Touche,Passe,12,4,2,0,0,0,0,0,0,0
+England - Wales,40'-60',5,14,Wales,Touche,1707793580.3297296,1707793601.155175,22m1,2,22m1,2,Faute +,Ruck,1,2,0,0,0,0,0,0,0,0
+England - Wales,40'-60',5,14,England,Coup de pied,1707793640.3369467,1707793654.927264,10m1,6,22m4,11,Faute +,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+England - Wales,40'-60',8,14,England,Coup de pied,1707793675.4320755,1707793713.646396,40m1,4,10m1,6,Faute -,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+England - Wales,40'-60',8,14,Wales,Turnover,1707793723.672564,1707793725.8745956,10m2,7,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+England - Wales,40'-60',8,14,Wales,Mêlée,1707793728.5396965,1707793760.8980699,10m2,7,22m3,10,Touche,Jeu au pied,1,0,0,0,0,2,0,0,0,0
+England - Wales,40'-60',8,14,Wales,Touche,1707793773.8162582,1707793789.0014672,22m3,10,,0,Supprimer,Maul,0,0,0,0,0,0,1,0,0,0
+England - Wales,40'-60',8,14,England,Mêlée,1707793817.0417476,1707793858.6813407,22m1,2,10m1,6,Touche,Dégagement,0,1,0,0,0,0,0,0,1,1
+England - Wales,40'-60',8,14,Wales,Touche,1707793867.8303137,1707793894.4016345,10m2,7,22m4,11,Faute -,Offload +,7,1,0,0,1,0,0,0,0,0
+England - Wales,40'-60',8,14,England,Touche,1707793907.7127433,1707793953.4986863,10m1,6,40m4,9,Perte,Jeu au pied,2,0,1,0,0,1,0,0,0,0
+England - Wales,40'-60',8,14,Wales,Coup de pied,1707793960.3741167,1707793966.8035624,40m1,4,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+England - Wales,60'-80',8,14,England,Touche,1707793987.9680274,1707794090.9840658,22m4,11,En-but,11,Essai,Passe,4,1,6,0,0,0,1,0,6,0
+England - Wales,60'-80',13,14,England,Coup de pied,1707794097.6515148,1707794148.992511,10m1,6,40m4,9,Perte,Jeu au pied,3,1,1,0,0,1,0,0,0,0
+England - Wales,60'-80',13,14,Wales,Coup de pied,1707794155.493026,1707794176.886941,40m1,4,40m2,5,Perte,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+England - Wales,60'-80',13,14,England,Coup de pied,1707794184.6815171,1707794249.8841403,40m3,8,22m3,10,Perte,Ruck +,14,4,4,0,0,0,0,0,1,0
+England - Wales,60'-80',13,14,Wales,Turnover,1707794261.3130903,1707794286.8437018,22m2,3,10m2,7,Perte,Dégagement,1,2,0,0,0,0,0,0,0,1
+England - Wales,60'-80',13,14,England,Coup de pied,1707794291.522667,1707794313.3759062,10m1,6,40m3,8,Touche,Jeu au pied,3,1,1,0,0,1,0,0,0,0
+England - Wales,60'-80',13,14,Wales,Touche,1707794326.5806422,1707794395.5195405,40m2,5,10m2,7,Perte,Jeu au pied,7,3,2,0,0,2,0,0,0,1
+England - Wales,60'-80',13,14,England,Coup de pied,1707794402.2212508,1707794414.2261536,10m1,6,22m4,11,Touche,Dégagement,1,1,0,0,0,0,0,0,0,1
+England - Wales,60'-80',13,14,England,Touche,1707794419.4687164,1707794447.3553963,22m4,11,22m3,10,Faute +,Passe,3,0,0,0,0,0,1,0,0,0
+England - Wales,60'-80',16,14,England,Coup de pied,1707794462.3619843,1707794508.8174877,22m2,3,10m2,7,Touche,Dégagement,1,1,1,0,0,0,0,0,0,1
+England - Wales,60'-80',16,14,England,Coup de pied,1707794524.9675825,1707794582.4787302,40m1,4,22m3,10,Perte,Dégagement,3,1,3,0,0,1,0,0,0,1
+England - Wales,60'-80',16,14,England,Coup de pied,1707794587.4580083,1707794638.9685853,40m2,5,22m3,10,Faute -,Ruck,10,2,3,0,0,1,0,0,0,0
+England - Wales,60'-80',16,14,Wales,Touche,1707794644.451095,1707794826.5979984,10m1,6,10m2,7,Perte,Jeu au pied,25,18,2,0,0,1,1,0,1,0
+England - Wales,60'-80',16,14,England,Coup de pied,1707794831.3968806,1707794836.3222485,10m1,6,22m3,10,Perte,Jeu au pied,0,0,0,0,0,1,0,0,0,0
+England - Wales,60'-80',16,14,Wales,Coup de pied,1707794844.407078,1707794881.6702101,22m2,3,40m1,4,Touche,Jeu au pied,3,2,1,0,0,1,0,0,0,0

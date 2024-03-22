@@ -1,0 +1,72 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Scotland - England,0'-20',0,0,Scotland,Coup de pied,1709066011.7673244,1709066032.039134,40m1,4,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,0,Scotland,Coup de pied,1709066035.093372,1709066060.9596558,40m1,4,10m1,6,Touche,Passe,4,0,1,0,1,0,0,0,0,0
+Scotland - England,0'-20',0,0,England,Touche,1709066067.7758708,1709066103.1759856,10m2,7,40m4,9,Touche,Ruck +,6,1,1,0,0,1,0,0,0,0
+Scotland - England,0'-20',0,0,Scotland,Touche,1709066118.127833,1709066144.0249329,40m1,4,40m1,4,Faute -,Passe,2,0,1,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,0,England,Turnover,1709066155.892365,1709066192.2218297,40m4,9,22m3,10,Faute -,Passe,9,2,2,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,0,England,Mêlée,1709066246.7409918,1709066262.9720414,22m3,10,En-but,13,Essai,Passe,4,0,0,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,7,Scotland,Mêlée,1709066303.7766995,1709066337.4933262,10m2,7,40m3,8,Faute -,Ruck,2,1,1,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,7,England,Touche,1709066365.4734845,1709066381.3601716,40m4,9,40m3,8,Faute -,Passe,2,0,0,0,0,0,1,0,0,0
+Scotland - England,0'-20',0,7,Scotland,Coup de pied,1709066399.712802,1709066430.7608194,40m2,5,40m1,4,Perte,Passe,2,0,1,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,7,England,Turnover,1709066439.2807784,1709066450.5908382,40m4,9,40m3,8,Faute -,Passe,4,1,0,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,7,England,Coup de pied,1709066454.1248686,1709066520.571876,40m2,5,22m3,10,Perte,Jeu au pied,2,2,1,0,0,2,0,0,0,0
+Scotland - England,0'-20',0,7,England,Coup de pied,1709066529.1406481,1709066581.738166,40m2,5,40m4,9,Faute +,Jeu au pied,8,1,3,0,0,2,0,0,0,0
+Scotland - England,0'-20',0,10,England,Turnover,1709066615.8432376,1709066639.107607,40m2,5,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,10,Scotland,Touche,1709066655.4557998,1709066657.7628882,40m3,8,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,10,England,Touche,1709066693.823126,1709066702.252294,40m3,8,40m4,9,Perte,Passe,4,0,0,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,10,Scotland,Turnover,1709066706.9466133,1709066722.2424657,40m4,9,40m4,9,Perte,Dégagement,2,2,0,0,0,0,0,0,0,1
+Scotland - England,0'-20',0,10,England,Coup de pied,1709066728.4671533,1709066756.2168689,40m1,4,10m1,6,Perte,Passe,1,0,0,0,1,1,0,0,0,0
+Scotland - England,0'-20',0,10,Scotland,Turnover,1709066763.4084063,1709066781.5575106,10m2,7,10m2,7,Faute +,Passe,3,2,0,0,0,0,0,0,0,0
+Scotland - England,0'-20',0,10,Scotland,Mêlée,1709066786.5737886,1709066830.8447604,10m2,7,En-but,13,Essai,Offload +,2,0,0,0,1,0,0,0,0,0
+Scotland - England,20'-40',7,10,Scotland,Coup de pied,1709066860.529312,1709066878.3359272,40m2,5,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Scotland - England,20'-40',7,10,Scotland,Touche,1709066880.9629867,1709066921.3098075,40m3,8,10m2,7,Faute -,Ruck,2,1,0,0,0,0,1,0,0,0
+Scotland - England,20'-40',7,10,England,Touche,1709066934.0995724,1709066944.6792397,22m3,10,22m4,11,Touche,Maul,0,0,0,0,0,0,1,0,0,0
+Scotland - England,20'-40',7,10,Scotland,Touche,1709066965.8886573,1709067031.467597,22m1,2,40m2,5,Touche,Dégagement,1,1,1,0,0,0,1,0,0,1
+Scotland - England,20'-40',7,10,England,Touche,1709067037.4509127,1709067089.5428267,40m3,8,22m4,11,Touche,Jeu au pied,10,2,4,0,0,1,0,0,0,0
+Scotland - England,20'-40',7,10,Scotland,Touche,1709067117.286655,1709067144.6457636,22m1,2,40m2,5,Touche,Dégagement,0,0,1,0,0,0,0,0,0,1
+Scotland - England,20'-40',7,10,England,Touche,1709067155.648784,1709067171.35318,40m3,8,40m3,8,Faute -,Passe,4,0,0,0,0,0,0,0,0,0
+Scotland - England,20'-40',7,10,Scotland,Turnover,1709067176.7304902,1709067198.6612,40m1,4,40m4,9,Perte,Dégagement,2,0,1,0,0,0,0,0,0,1
+Scotland - England,20'-40',7,10,Scotland,Coup de pied,1709067201.857002,1709067227.2330408,40m2,5,40m2,5,Faute -,Passe,2,1,1,0,0,0,0,0,0,0
+Scotland - England,20'-40',7,10,England,Turnover,1709067244.8776734,1709067296.2946768,40m3,8,10m2,7,Faute -,Passe,10,4,1,0,0,0,0,0,1,0
+Scotland - England,20'-40',7,10,Scotland,Turnover,1709067305.2394,1709067311.2488987,40m2,5,En-but,13,Essai,Offload,0,0,0,1,0,0,0,0,0,0
+Scotland - England,20'-40',14,10,Scotland,Coup de pied,1709067366.5316176,1709067382.2031636,40m1,4,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Scotland - England,20'-40',14,10,England,Coup de pied,1709067400.729461,1709067416.5689542,10m1,6,40m4,9,Perte,Dégagement,2,0,1,0,0,0,0,0,0,1
+Scotland - England,20'-40',14,10,Scotland,Coup de pied,1709067434.0497313,1709067457.351503,10m1,6,40m4,9,Touche,Jeu au pied,4,0,1,0,0,2,0,0,0,0
+Scotland - England,20'-40',14,10,Scotland,Turnover,1709067461.085577,1709067522.5922756,40m4,9,22m3,10,Faute +,Jeu au pied,3,2,3,0,1,1,0,0,2,0
+Scotland - England,20'-40',17,10,England,Coup de pied,1709067563.218958,1709067610.9467673,40m4,9,,0,Drop +,Passe,7,5,1,0,0,0,0,0,0,0
+Scotland - England,20'-40',17,13,England,Coup de pied,1709067621.5345788,1709067669.8239841,22m1,2,10m1,6,Touche,Dégagement,1,0,2,0,0,0,0,0,0,1
+Scotland - England,20'-40',17,13,Scotland,Touche,1709067680.8336797,1709067719.9068706,10m2,7,10m2,7,Perte,Passe,8,1,2,0,0,0,1,0,0,0
+Scotland - England,20'-40',17,13,Scotland,Coup de pied,1709067723.560925,1709067754.1283298,22m1,2,10m1,6,Perte,Dégagement,0,0,1,0,0,0,0,0,0,1
+Scotland - England,20'-40',17,13,England,Touche,1709067779.293129,1709067826.375854,10m2,7,40m4,9,Faute -,Ruck,4,2,2,0,0,0,1,0,1,0
+Scotland - England,40'-60',17,13,England,Coup de pied,1709067837.189816,1709067999.7481525,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Scotland - England,40'-60',17,13,Scotland,Touche,1709068017.7807283,1709068040.5574384,40m3,8,22m4,11,Touche,Jeu au pied,6,1,1,0,0,1,0,0,0,0
+Scotland - England,40'-60',17,13,England,Touche,1709068054.5608928,1709068091.261927,22m1,2,22m2,3,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+Scotland - England,40'-60',17,13,Scotland,Touche,1709068100.0882707,1709068189.2779105,22m3,10,22m4,11,Faute -,Ruck,5,4,6,0,0,0,1,0,4,0
+Scotland - England,40'-60',17,13,Scotland,Touche +,1709068227.626457,1709068257.7093933,40m3,8,En-but,13,Essai,Jeu au pied,3,0,1,0,0,2,0,0,0,0
+Scotland - England,40'-60',24,13,England,Touche,1709068327.8986037,1709068389.3796186,10m1,6,22m4,11,Faute +,Passe,9,3,3,0,0,1,1,0,0,0
+Scotland - England,40'-60',24,16,Scotland,Mêlée,1709068418.738387,1709068484.377936,22m2,3,22m3,10,Faute -,Passe,6,3,0,0,0,0,0,0,0,0
+Scotland - England,40'-60',24,16,England,Touche,1709068518.9884071,1709068573.2973113,10m2,7,40m4,9,Faute -,Ruck,4,3,4,0,0,1,1,0,1,0
+Scotland - England,40'-60',24,16,Scotland,Touche,1709068586.241466,1709068626.1257033,40m4,9,40m4,9,Faute +,Jeu au pied,5,2,1,0,0,1,1,0,0,0
+Scotland - England,40'-60',27,16,England,Coup de pied,1709068664.0774581,1709068678.5559309,10m1,6,40m4,9,Perte,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Scotland - England,40'-60',27,16,Scotland,Coup de pied,1709068690.4571667,1709068702.5287225,40m1,4,40m4,9,Perte,Dégagement,1,0,1,0,0,0,0,0,0,1
+Scotland - England,40'-60',27,16,Scotland,Turnover,1709068707.1400502,1709068724.6620178,10m1,6,40m3,8,Perte,Jeu au pied,1,1,0,0,0,1,0,0,0,0
+Scotland - England,40'-60',27,16,England,Coup de pied,1709068734.8061304,1709068762.521641,40m2,5,40m4,9,Perte,Jeu au pied,2,0,2,0,0,1,0,0,0,0
+Scotland - England,40'-60',27,16,Scotland,Coup de pied,1709068769.9101334,1709068792.6266327,40m1,4,10m1,6,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Scotland - England,40'-60',27,16,England,Coup de pied,1709068806.9461694,1709068850.4054677,10m2,7,40m3,8,Perte,Passe,6,0,4,0,0,1,0,0,0,0
+Scotland - England,60'-80',27,16,Scotland,Touche,1709068903.1357422,1709068942.1925426,10m2,7,22m3,10,Perte,Jeu au pied,1,2,2,0,0,1,0,0,3,0
+Scotland - England,60'-80',27,16,England,Coup de pied,1709068946.8146114,1709068980.2837117,22m2,3,10m2,7,Perte,Jeu au pied,2,0,2,0,1,1,0,0,0,0
+Scotland - England,60'-80',27,16,Scotland,Coup de pied,1709068986.9496932,1709068997.6804836,10m1,6,22m3,10,Perte,Dégagement,1,0,1,1,0,0,0,0,0,1
+Scotland - England,60'-80',27,16,Scotland,Touche,1709069000.6133778,1709069053.9162488,40m2,5,10m2,7,Perte,Jeu au pied,2,2,0,0,0,1,1,0,0,0
+Scotland - England,60'-80',27,16,England,Coup de pied,1709069064.6102765,1709069082.2450726,10m1,6,40m2,5,Faute -,Ruck +,0,1,1,0,0,0,0,0,1,0
+Scotland - England,60'-80',30,16,England,Coup de pied,1709069114.6136613,1709069151.2984583,40m4,9,En-but,13,Essai,Passe,5,1,3,0,0,0,0,0,0,0
+Scotland - England,60'-80',30,21,England,Coup de pied,1709069158.363823,1709069187.0698557,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Scotland - England,60'-80',30,21,Scotland,Touche,1709069211.4928477,1709069249.9457803,40m4,9,10m2,7,Faute -,Passe,5,3,0,0,0,0,1,0,1,0
+Scotland - England,60'-80',30,21,England,Touche,1709069257.3614516,1709069295.827807,40m4,9,40m4,9,Faute -,Maul,2,1,0,0,0,0,2,0,0,0
+Scotland - England,60'-80',30,21,England,Coup de pied,1709069315.9961486,1709069321.34531,10m1,6,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Scotland - England,60'-80',30,21,Scotland,Turnover,1709069326.1502082,1709069347.1007774,10m2,7,10m1,6,Faute +,Jeu au pied,3,2,0,1,0,1,0,0,0,0
+Scotland - England,60'-80',30,21,England,Coup de pied,1709069400.387062,1709069461.9491637,40m1,4,40m3,8,Perte,Jeu au pied,6,2,2,0,0,2,0,0,0,0
+Scotland - England,60'-80',30,21,Scotland,Coup de pied,1709069467.8948715,1709069500.8827603,40m2,5,40m4,9,Perte,Jeu au pied,2,1,2,0,0,2,0,0,0,0
+Scotland - England,60'-80',30,21,England,Coup de pied,1709069512.940208,1709069531.5897715,40m1,4,10m1,6,Faute +,Passe,2,0,2,0,0,0,0,0,0,0
+Scotland - England,60'-80',30,21,England,Touche,1709069565.8919706,1709069596.69996,40m3,8,40m3,8,Touche,Passe,8,0,2,0,0,0,0,0,0,0
+Scotland - England,60'-80',30,21,England,Turnover,1709069625.814045,1709069652.22989,40m2,5,40m2,5,Faute +,Passe,6,2,0,1,0,0,0,0,0,0
+Scotland - England,60'-80',30,21,England,Touche,1709069668.2452137,1709069700.6896648,40m3,8,22m3,10,Faute -,Maul,4,0,1,0,0,0,2,0,1,0

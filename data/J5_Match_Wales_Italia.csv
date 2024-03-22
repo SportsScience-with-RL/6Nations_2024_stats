@@ -1,0 +1,87 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Wales - Italia,0'-20',0,0,Italia,Coup de pied,1711111447.9246,1711111471.7868237,22m2,3,,0,Supprimer,Jeu au pied,0,0,1,0,0,1,0,0,0,0
+Wales - Italia,0'-20',0,0,Wales,Coup de pied,1711111475.2436655,1711111497.6110408,10m1,6,40m4,9,Perte,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Wales - Italia,0'-20',0,0,Italia,Coup de pied,1711111527.5205398,1711111540.048167,40m2,5,40m3,8,Faute -,Jeu au pied,0,0,0,0,1,1,0,0,0,0
+Wales - Italia,0'-20',0,0,Wales,Touche,1711111550.99775,1711111640.5473983,10m1,6,10m2,7,Faute -,Passe,15,4,1,0,1,1,0,0,0,0
+Wales - Italia,0'-20',0,0,Italia,Mêlée,1711111647.0195024,1711111676.222402,10m1,6,22m3,10,Perte,Ruck +,3,0,1,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,0,Wales,Turnover,1711111685.6499207,1711111714.0023828,22m2,3,10m2,7,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Wales - Italia,0'-20',0,0,Wales,Coup de pied,1711111718.2695427,1711111727.1461582,40m1,4,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,3,Wales,Coup de pied,1711111764.6677299,1711111786.428392,10m2,7,40m3,8,Faute -,Jeu au pied,3,3,0,0,0,1,0,0,0,0
+Wales - Italia,0'-20',0,3,Italia,Turnover,1711111798.1882553,1711111830.8206909,40m1,4,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Wales - Italia,0'-20',0,3,Wales,Coup de pied,1711111837.574229,1711111860.711494,10m1,6,10m1,6,Faute +,Ruck +,5,2,1,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,3,Wales,Touche,1711111866.4843743,1711111890.939386,40m4,9,22m3,10,Perte,Ruck +,2,0,2,0,0,0,0,0,1,0
+Wales - Italia,0'-20',0,3,Italia,Turnover,1711111903.4947946,1711111916.5423393,22m2,3,40m1,4,Touche,Jeu au pied,3,0,0,0,0,1,0,0,0,0
+Wales - Italia,0'-20',0,3,Italia,Touche,1711111941.732446,1711111961.5129154,40m1,4,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,1,0
+Wales - Italia,0'-20',0,3,Wales,Coup de pied,1711111968.1911192,1711111991.0417373,10m1,6,22m4,11,Perte,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+Wales - Italia,0'-20',0,3,Italia,Coup de pied,1711111995.9625664,1711111997.4582767,22m1,2,40m1,4,Touche,,0,0,0,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,3,Wales,Touche,1711112016.6809545,1711112076.665894,40m4,9,40m2,5,Faute -,Ruck,12,7,0,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,6,Italia,Coup de pied,1711112094.8704555,1711112111.5661767,22m2,3,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,6,Italia,Touche,1711112132.3892224,1711112164.8055983,10m1,6,40m3,8,Faute -,Ruck,5,1,2,0,0,0,0,0,1,0
+Wales - Italia,0'-20',0,6,Wales,Touche,1711112182.2594562,1711112205.6823323,40m3,8,10m2,7,Faute -,Passe,1,0,0,0,0,0,1,0,0,0
+Wales - Italia,0'-20',0,6,Italia,Touche,1711112211.486565,1711112251.3380644,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,6,Italia,Touche,1711112256.2168856,1711112274.5220711,10m2,7,,0,Supprimer,Ruck +,2,0,1,0,0,0,0,0,0,0
+Wales - Italia,0'-20',0,6,Italia,Touche,1711112277.9448667,1711112498.954228,10m2,7,En-but,13,Essai,Passe,12,4,5,1,2,0,0,0,3,0
+Wales - Italia,20'-40',0,11,Italia,Coup de pied,1711112526.6082985,1711112568.2278912,40m1,4,10m1,6,Touche,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Mêlée,1711112580.719826,1711112602.7805786,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Mêlée,1711112604.6700678,1711112624.2847617,10m2,7,10m1,6,Faute -,Passe,5,0,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Mêlée,1711112630.8238811,1711112662.427903,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Touche,1711112670.159143,1711112719.167424,22m3,10,10m2,7,Perte,Offload,6,4,0,1,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Turnover,1711112726.9314594,1711112751.3935995,10m1,6,22m3,10,Faute -,Ruck +,5,1,1,0,2,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Touche,1711112778.227642,1711112780.590363,40m3,8,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Touche,1711112785.46145,1711112822.2046654,10m2,7,40m4,9,Perte,Jeu au pied,3,2,0,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Coup de pied,1711112828.5700595,1711112868.1967747,40m1,4,10m1,6,Perte,Jeu au pied,2,2,1,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Coup de pied,1711112875.2046251,1711112900.3317509,10m2,7,22m3,10,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Mêlée,1711112905.5568593,1711112965.1696877,22m3,10,22m4,11,Touche,Jeu au pied,6,3,0,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Touche,1711112998.956552,1711113025.4864616,22m1,2,40m2,5,Touche,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Touche,1711113038.7258184,1711113073.6269581,40m3,8,40m4,9,Faute -,Offload +,8,3,1,0,1,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Turnover,1711113078.633181,1711113095.070582,40m1,4,22m1,2,Faute +,Ruck,5,2,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Touche,1711113101.5621433,1711113142.0359516,10m2,7,22m3,10,Touche,Jeu au pied,7,3,1,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Touche,1711113159.7154632,1711113181.4009824,22m2,3,10m1,6,Perte,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Coup de pied,1711113189.574649,1711113216.7117782,10m2,7,10m2,7,Touche,Passe,6,3,1,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Touche,1711113243.9219084,1711113259.5401633,10m1,6,,0,Supprimer,Jeu au pied,0,0,0,0,0,2,1,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Coup de pied,1711113264.603543,1711113274.3727741,40m1,4,40m2,5,Perte,Ruck +,0,0,1,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Turnover,1711113287.4948301,1711113293.7841423,40m3,8,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Turnover,1711113302.1096573,1711113347.1195607,40m2,5,40m3,8,Perte,Jeu au pied,5,2,1,0,0,1,0,0,0,0
+Wales - Italia,20'-40',0,11,Italia,Coup de pied,1711113355.9388275,1711113360.2956145,40m2,5,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Touche,1711113373.9324644,1711113382.4539342,22m3,10,22m3,10,Faute -,Passe,2,0,0,0,0,0,0,0,0,0
+Wales - Italia,20'-40',0,11,Wales,Turnover,1711113416.2904418,1711113461.991042,10m2,7,10m2,7,Faute -,Jeu au pied,8,5,0,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,11,Wales,Coup de pied,1711113483.8261254,1711113583.1406293,40m1,4,40m4,9,Perte,Jeu au pied,4,2,2,0,0,2,0,0,0,0
+Wales - Italia,40'-60',0,11,Italia,Coup de pied,1711113595.3996902,1711113623.9228919,40m2,5,40m4,9,Perte,Jeu au pied,1,1,1,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,11,Wales,Coup de pied,1711113629.9739761,1711113658.0392098,40m1,4,10m1,6,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,11,Italia,Coup de pied,1711113664.6176412,1711113686.5808315,10m2,7,40m3,8,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,11,Wales,Coup de pied,1711113693.0548167,1711113703.2942924,40m2,5,10m1,6,Touche,Jeu au pied,2,1,0,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,11,Wales,Touche,1711113707.2805994,1711113806.9764323,10m1,6,22m3,10,Faute -,Passe,20,6,4,0,1,1,0,0,0,0
+Wales - Italia,40'-60',0,11,Italia,Touche,1711113810.8509767,1711113833.2999308,10m1,6,En-but,13,Essai,Passe,7,0,0,0,0,0,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Coup de pied,1711113871.4638338,1711113892.7374125,10m1,6,22m3,10,Perte,Jeu au pied,6,1,1,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Touche,1711113897.3068151,1711113913.3187828,10m2,7,10m2,7,Faute +,Ruck,4,1,0,0,0,0,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Touche,1711113917.2587066,1711113964.5216613,40m4,9,22m4,11,Faute -,Passe,4,1,2,0,0,0,1,0,0,0
+Wales - Italia,40'-60',0,18,Italia,Touche,1711113996.9531238,1711114027.6040728,40m2,5,40m2,5,Faute -,Passe,3,1,0,0,0,0,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Turnover,1711114033.7456138,1711114056.4022021,40m4,9,40m4,9,Faute +,Passe,2,1,0,0,0,0,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Mêlée,1711114076.6697829,1711114110.732584,40m4,9,22m3,10,Faute -,Ruck,6,1,3,0,0,0,0,0,0,0
+Wales - Italia,40'-60',0,18,Italia,Touche,1711114122.696288,1711114157.1278207,40m2,5,40m3,8,Perte,Jeu au pied,1,0,1,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Coup de pied,1711114164.5261402,1711114179.7074068,40m2,5,10m1,6,Perte,Jeu au pied,2,0,2,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,18,Italia,Coup de pied,1711114188.1442752,1711114216.5490258,10m2,7,40m3,8,Perte,Jeu au pied,1,2,0,1,0,1,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Coup de pied,1711114222.71096,1711114242.318393,40m2,5,10m2,7,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Mêlée,1711114247.5781822,1711114357.043723,10m2,7,22m4,11,Faute -,Ruck,18,7,6,0,1,0,0,0,2,0
+Wales - Italia,40'-60',0,18,Italia,Touche,1711114369.3337731,1711114426.312495,10m2,7,40m4,9,Perte,Jeu au pied,5,4,0,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Coup de pied,1711114433.051799,1711114472.1577587,40m1,4,10m2,7,Perte,Jeu au pied,2,2,2,0,0,1,0,0,1,0
+Wales - Italia,40'-60',0,18,Italia,Coup de pied,1711114479.6731,1711114516.0820239,10m1,6,40m4,9,Perte,Jeu au pied,3,3,1,0,0,1,0,0,0,0
+Wales - Italia,40'-60',0,18,Wales,Coup de pied,1711114521.8841228,1711114536.0375237,40m1,4,10m1,6,Faute -,Jeu au pied,2,1,0,0,0,1,0,0,0,0
+Wales - Italia,60'-80',0,18,Italia,Turnover,1711114544.4990728,1711114552.5833745,10m1,6,40m4,9,Perte,Jeu au pied,0,0,0,1,0,1,0,0,0,0
+Wales - Italia,60'-80',0,18,Wales,Coup de pied,1711114556.519209,1711114568.8159962,40m1,4,,0,Supprimer,Ruck +,1,0,1,0,0,0,0,0,0,0
+Wales - Italia,60'-80',0,18,Wales,Mêlée,1711114571.7543347,1711114657.9729218,10m1,6,22m4,11,Perte,Ruck +,12,1,2,0,0,0,0,0,0,0
+Wales - Italia,60'-80',0,18,Wales,Touche,1711114677.3098488,1711114757.7728412,22m4,11,En-but,13,Essai,Ruck +,3,6,2,0,0,0,1,0,4,0
+Wales - Italia,60'-80',7,18,Wales,Coup de pied,1711114799.3336842,1711114810.0396938,22m2,3,,0,Supprimer,Ruck +,0,0,1,0,0,0,0,0,0,0
+Wales - Italia,60'-80',7,18,Wales,Touche,1711114812.1486902,1711114853.893609,10m2,7,10m2,7,Faute +,Ruck +,12,4,1,0,0,0,0,0,0,0
+Wales - Italia,60'-80',7,18,Wales,Touche,1711114858.1839726,1711114867.4385142,40m4,9,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Wales - Italia,60'-80',7,18,Wales,Mêlée,1711114869.5100427,1711114928.0579102,40m4,9,40m2,5,Perte,Jeu au pied,5,1,2,0,0,1,0,0,0,0
+Wales - Italia,60'-80',7,18,Italia,Coup de pied,1711114934.692346,1711114956.2953002,40m2,5,10m1,6,Faute +,Ruck +,2,2,1,0,0,1,0,0,0,0
+Wales - Italia,60'-80',7,21,Wales,Touche,1711114993.5056713,1711115021.8933136,10m1,6,10m1,6,Faute +,Passe,6,0,1,0,0,0,0,0,0,0
+Wales - Italia,60'-80',7,21,Wales,Touche,1711115036.3026934,1711115079.0359557,10m1,6,10m1,6,Faute -,Ruck,4,1,0,0,0,0,0,0,0,0
+Wales - Italia,60'-80',7,24,Italia,Coup de pied,1711115101.7679129,1711115142.7267942,40m2,5,10m2,7,Touche,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Wales - Italia,60'-80',7,24,Wales,Touche,1711115153.3269963,1711115192.1177936,10m1,6,10m2,7,Faute -,Passe,5,0,1,0,0,0,1,0,0,0
+Wales - Italia,60'-80',7,24,Wales,Touche,1711115217.3197172,1711115292.699231,22m4,11,22m4,11,Faute +,Départ ruck,4,2,4,0,0,0,1,0,3,0
+Wales - Italia,60'-80',7,24,Wales,Jeux rapide,1711115306.8785236,1711115384.919486,22m4,11,En-but,13,Essai,Départ ruck,8,3,6,0,0,0,0,0,2,0
+Wales - Italia,60'-80',14,24,Wales,Coup de pied,1711115403.6620383,1711115462.5404785,22m2,3,En-but,13,Essai,Jeu au pied,4,2,4,0,0,2,0,0,1,0
+Wales - Italia,60'-80',21,24,Wales,Coup de pied,1711115483.9054575,1711115491.088412,,0,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Wales - Italia,60'-80',21,24,Wales,Coup de pied,1711115496.1002436,1711115499.2427807,10m1,6,10m1,6,Perte,,0,0,0,0,0,0,0,0,0,0

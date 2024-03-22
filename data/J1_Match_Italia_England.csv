@@ -1,0 +1,75 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Ruck +,Offload,Offload +,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Italia - England,0'-20',0,0,England,Coup de pied,1707488488.781535,1707488505.8701222,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - England,0'-20',0,0,England,Touche,1707488511.1832445,1707488557.4092464,10m2,7,10m2,7,Faute -,Ruck,11,5,0,0,0,0,0,0,0,0
+Italia - England,0'-20',0,0,Italia,Touche,1707488565.2952719,1707488614.4873495,40m4,9,22m3,10,Perte,Jeu au pied,4,3,0,0,0,1,1,0,0,0
+Italia - England,0'-20',0,0,England,Coup de pied,1707488623.4810584,1707488628.3850443,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - England,0'-20',0,0,Italia,Touche,1707488652.7451217,1707488666.5276682,10m2,7,40m3,8,Faute +,Passe,6,0,1,0,0,0,0,0,0,0
+Italia - England,0'-20',3,0,Italia,Coup de pied,1707488700.4196,1707488715.3293397,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - England,0'-20',3,0,Italia,Touche,1707488719.7193077,1707488732.6450257,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - England,0'-20',3,0,England,Touche +,1707488741.0179737,1707488768.8975165,10m1,6,10m2,7,Perte,Jeu au pied,4,2,0,0,0,1,0,0,0,0
+Italia - England,0'-20',3,0,Italia,Coup de pied,1707488776.342081,1707488804.0749023,10m1,6,10m2,7,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Italia - England,0'-20',3,0,England,Coup de pied,1707488822.2738028,1707488835.1559854,10m1,6,10m1,6,Faute -,Ruck +,1,1,1,0,0,0,0,0,0,0
+Italia - England,0'-20',3,0,Italia,Mêlée,1707488840.0772378,1707488881.5333412,10m2,7,40m4,9,Touche,Jeu au pied,6,2,1,0,0,1,0,0,0,0
+Italia - England,0'-20',3,0,England,Touche,1707488900.3687098,1707488938.7899582,40m1,4,10m1,6,Perte,Jeu au pied,1,0,1,0,0,1,1,0,0,0
+Italia - England,0'-20',3,0,Italia,Coup de pied,1707488946.5781975,1707488966.9353092,10m2,7,En-but,11,Essai,Offload,2,2,0,0,2,0,0,0,0,0
+Italia - England,0'-20',10,0,Italia,Coup de pied,1707488992.2511494,1707489035.7890117,22m2,3,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Italia - England,0'-20',10,0,England,Coup de pied,1707489042.3411822,1707489108.063794,40m4,9,40m4,9,Faute +,Passe,13,6,2,0,1,0,0,0,0,0
+Italia - England,0'-20',10,3,England,Coup de pied,1707489156.9415982,1707489190.3937962,22m2,3,10m1,6,Touche,Dégagement,1,1,1,0,0,0,0,0,0,1
+Italia - England,0'-20',10,3,Italia,Touche,1707489197.2954156,1707489213.2134144,10m2,7,40m3,8,Perte,Passe,2,0,0,0,0,0,0,0,0,0
+Italia - England,0'-20',10,3,England,Turnover,1707489220.862469,1707489289.9385498,40m2,5,40m4,9,Perte,Jeu au pied,14,5,4,0,0,1,0,0,1,0
+Italia - England,0'-20',10,3,Italia,Coup de pied,1707489295.3670664,1707489299.5526419,40m1,4,,0,Supprimer,Passe,1,0,0,0,0,0,0,0,0,0
+Italia - England,0'-20',10,3,England,Coup de pied,1707489321.2934265,1707489346.4353168,10m2,7,En-but,11,Essai,Offload +,5,0,1,0,1,0,0,0,0,0
+Italia - England,0'-20',10,8,England,Coup de pied,1707489352.3067625,1707489399.515927,22m2,3,40m3,8,Touche,Dégagement,1,1,1,0,0,0,0,0,0,1
+Italia - England,0'-20',10,8,Italia,Touche,1707489416.2978926,1707489418.4874487,40m2,5,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - England,20'-40',10,8,England,Touche +,1707489426.1753583,1707489499.1659145,40m3,8,40m4,9,Perte,Jeu au pied,11,4,2,0,0,2,0,0,0,0
+Italia - England,20'-40',10,8,Italia,Coup de pied,1707489505.2609208,1707489526.0540593,40m1,4,22m2,3,Faute +,Ruck +,2,1,1,1,0,0,0,0,0,0
+Italia - England,20'-40',10,8,England,Touche,1707489561.47908,1707489587.4812648,40m1,4,10m2,7,Perte,Jeu au pied,0,0,0,0,0,1,1,0,0,0
+Italia - England,20'-40',10,8,Italia,Coup de pied,1707489593.0621917,1707489619.939806,10m1,6,En-but,11,Essai,Passe,7,2,0,0,0,0,0,0,0,0
+Italia - England,20'-40',17,8,Italia,Coup de pied,1707489633.9207618,1707489684.9211898,22m2,3,40m1,4,Touche,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Italia - England,20'-40',17,8,England,Touche,1707489700.1058297,1707489775.932905,40m4,9,22m4,11,Faute +,Départ ruck,13,4,6,0,1,0,0,0,3,0
+Italia - England,20'-40',17,8,England,Touche,1707489780.334146,1707489854.9237595,22m4,11,22m4,11,Faute +,Ruck +,4,3,4,0,0,0,1,0,5,0
+Italia - England,20'-40',17,11,England,Coup de pied,1707489880.8928027,1707489907.596116,40m1,4,,0,Supprimer,Jeu au pied,0,0,0,0,0,1,1,0,0,0
+Italia - England,20'-40',17,11,Italia,Coup de pied,1707489914.2761219,1707489944.8573947,10m2,7,40m3,8,Perte,Jeu au pied,1,2,0,0,0,1,0,0,0,0
+Italia - England,20'-40',17,11,England,Coup de pied,1707489951.4938838,1707489991.8309002,40m2,5,En-but2,12,Perte,Dégagement,3,3,0,0,0,1,0,0,0,1
+Italia - England,20'-40',17,11,England,Coup de pied,1707490004.2298315,1707490055.4177647,10m2,7,40m4,9,Faute +,Jeu au pied,11,4,2,0,0,1,0,0,0,0
+Italia - England,20'-40',17,14,England,Coup de pied,1707490071.0654848,1707490095.9752073,40m1,4,,0,Supprimer,Jeu au pied,0,1,0,0,0,1,0,0,0,0
+Italia - England,20'-40',17,14,Italia,Coup de pied,1707490101.9262893,1707490128.9179037,10m2,7,40m4,9,Perte,Jeu au pied,5,2,1,1,0,1,0,0,0,0
+Italia - England,20'-40',17,14,England,Coup de pied,1707490149.1789207,1707490184.4620683,10m1,6,22m3,10,Perte,Jeu au pied,7,2,2,0,0,1,0,0,0,0
+Italia - England,20'-40',17,14,Italia,Coup de pied,1707490190.7708514,1707490217.3725543,22m2,3,En-but1,1,Touche,Jeu au pied,2,2,0,0,0,1,0,0,0,0
+Italia - England,40'-60',17,14,England,Turnover,1707490258.9582472,1707490262.8831277,22m3,10,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - England,40'-60',17,14,Italia,Mêlée,1707490270.9625502,1707490308.9417222,22m2,3,10m2,7,Perte,Jeu au pied,1,1,1,0,0,1,0,0,1,0
+Italia - England,40'-60',17,14,England,Coup de pied,1707490314.7025654,1707490333.5349872,10m1,6,22m3,10,Perte,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Italia - England,40'-60',17,14,Italia,Coup de pied,1707490353.799983,1707490376.7596319,40m1,4,10m1,6,Perte,Jeu au pied,2,1,1,0,0,1,0,0,0,0
+Italia - England,40'-60',17,14,England,Coup de pied,1707490384.390217,1707490392.3092988,10m2,7,22m4,11,Touche,Jeu au pied,1,0,0,0,0,1,0,0,0,0
+Italia - England,40'-60',17,14,Italia,Touche,1707490402.3980677,1707490416.5719955,22m1,2,40m2,5,Touche,Dégagement,1,0,1,0,0,0,0,0,0,1
+Italia - England,40'-60',17,14,England,Jeux rapide,1707490426.103863,1707490473.9724941,40m3,8,En-but,11,Essai,Départ ruck,6,2,2,0,0,0,0,0,1,0
+Italia - England,40'-60',17,21,Italia,Coup de pied,1707490513.333918,1707490518.895482,40m3,8,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - England,40'-60',17,21,Italia,Coup de pied,1707490522.6480281,1707490529.830316,40m3,8,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - England,40'-60',17,21,Italia,Coup de pied,1707490534.8421838,1707490560.0597286,40m3,8,10m1,6,Faute -,Ruck,2,2,0,1,0,0,0,0,0,0
+Italia - England,40'-60',17,21,Italia,Touche +,1707490582.9632983,1707490608.1499655,22m1,2,22m1,2,Touche,Dégagement,2,2,0,0,0,0,0,0,0,1
+Italia - England,40'-60',17,21,England,Touche,1707490616.6102562,1707490658.2213106,22m4,11,40m3,8,Faute -,Passe,9,2,0,0,0,0,1,0,0,0
+Italia - England,40'-60',17,21,Italia,Turnover,1707490668.7080164,1707490672.052272,40m2,5,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - England,40'-60',17,21,Italia,Mêlée,1707490675.9586046,1707490768.0300188,40m2,5,40m2,5,Faute -,Passe,4,1,1,0,0,0,0,0,0,0
+Italia - England,40'-60',17,21,England,Turnover,1707490776.449714,1707490783.2233205,40m3,8,40m3,8,Touche,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+Italia - England,40'-60',17,24,England,Coup de pied,1707490883.0072439,1707490923.7138443,22m2,3,40m1,4,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+Italia - England,40'-60',17,24,Italia,Touche,1707490932.8944743,1707490947.2611582,40m4,9,10m2,7,Faute +,Passe,5,1,0,0,0,0,0,0,0,0
+Italia - England,40'-60',17,24,Italia,Mêlée,1707490984.3356757,1707491038.5805395,10m2,7,22m3,10,Faute +,Passe,3,0,1,0,0,0,0,0,0,0
+Italia - England,40'-60',17,24,England,Turnover,1707491046.8092432,1707491050.2601767,22m2,3,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - England,40'-60',17,24,Italia,Touche,1707491094.3636053,1707491126.6650603,10m2,7,,0,Supprimer,,0,0,0,0,0,0,0,0,0,0
+Italia - England,60'-80',17,24,Italia,Jeux rapide,1707491142.243453,1707491186.408247,10m2,7,10m2,7,Faute -,Ruck,7,3,1,0,0,0,0,0,0,0
+Italia - England,60'-80',17,24,England,Mêlée,1707491193.7565305,1707491214.679192,10m1,6,40m4,9,Perte,Dégagement,2,0,0,0,0,0,0,0,0,1
+Italia - England,60'-80',17,24,Italia,Coup de pied,1707491226.2136679,1707491265.8490417,40m1,4,10m1,6,Touche,Dégagement,4,3,0,0,0,0,0,0,0,1
+Italia - England,60'-80',17,24,England,Touche,1707491273.51282,1707491366.5828087,10m2,7,40m4,9,Faute +,Offload,6,2,2,1,0,2,1,0,0,0
+Italia - England,60'-80',17,27,England,Coup de pied,1707491381.0992546,1707491421.0430245,22m2,3,40m3,8,Perte,Dégagement,0,0,1,0,0,0,0,0,0,1
+Italia - England,60'-80',17,27,Italia,Coup de pied,1707491426.583999,1707491466.7562854,40m2,5,22m3,10,Perte,Dégagement,8,3,1,0,0,0,0,0,0,1
+Italia - England,60'-80',17,27,Italia,Touche,1707491473.3043349,1707491494.2152197,10m1,6,,0,Supprimer,Ruck,0,1,0,0,0,0,0,0,0,0
+Italia - England,60'-80',17,27,Italia,Touche,1707491499.4327648,1707491617.9703424,40m4,9,40m4,9,Faute -,Ruck,13,8,3,0,0,0,1,0,3,0
+Italia - England,60'-80',17,27,Italia,Mêlée,1707491624.966319,1707491686.87326,10m1,6,10m1,6,Faute +,Ruck,8,2,1,0,0,0,0,0,0,0
+Italia - England,60'-80',17,27,Italia,Touche,1707491754.300559,1707491766.7412126,40m3,8,22m3,10,Perte,Jeu au pied,2,0,0,0,0,1,0,0,0,0
+Italia - England,60'-80',17,27,England,Coup de pied,1707491771.66625,1707491804.4032135,22m2,3,40m2,5,Touche,Dégagement,1,2,0,0,0,0,0,0,0,1
+Italia - England,60'-80',17,27,England,Touche +,1707491821.5675538,1707491844.04235,40m2,5,22m3,10,Touche,Jeu au pied,0,0,2,0,0,1,0,0,0,0
+Italia - England,60'-80',17,27,Italia,Touche,1707491872.5359607,1707491883.8108778,22m2,3,22m1,2,Touche,Passe,4,0,0,0,0,0,0,0,0,0
+Italia - England,60'-80',17,27,England,Touche,1707491909.309129,1707491950.3471656,22m4,11,22m4,11,Faute +,Passe,6,2,2,0,0,0,1,0,1,0
+Italia - England,60'-80',17,27,England,Touche,1707491955.678995,1707492048.957308,22m4,11,22m4,11,Faute +,Ruck,4,2,2,0,0,0,1,0,1,0
+Italia - England,60'-80',17,27,Italia,Touche,1707492087.3925538,1707492181.4543524,40m2,5,En-but,11,Essai,Passe,20,6,3,1,0,1,0,0,0,0
+Italia - England,60'-80',24,27,Italia,Coup de pied,1707492238.1060767,1707492267.064628,,0,,0,Faute +,,0,0,0,0,0,0,0,0,0,0
